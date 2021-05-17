@@ -16,6 +16,6 @@
     - Were involved in teaching Programming language: Java, Discrete Mathematics, Artificial Intelligence, Engineering Drawing, Data Structure, Computer Architecture, etc.
     - Mentored students on their mobile and desktop application projects
 - Graduate Research Assistant, Baylor University
-- 2021 - running
+  - 2021 - running
     - Are involved in research related to Machine Learning
     - Mentoring students on Python Programming Language learning
