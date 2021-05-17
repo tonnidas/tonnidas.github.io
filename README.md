@@ -1,3 +1,8 @@
 # Tonni Das Jui
 
-## Dipta Das is the ___
+Hi, I am a PhD student at Baylor University.
+
+## Eductaion
+
+- Baylor University
+- Brac University
