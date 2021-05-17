@@ -7,7 +7,7 @@
 - Machine Learning
 
 ## **Experience**
-- Teaching Assistant, BRAC University
+- **Teaching Assistant**, BRAC University
   - 2017 - 2018
     - Learned systematic student-instructor communication
     - Learned effective intermediary communication between supervisor and students
