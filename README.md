@@ -1,12 +1,12 @@
-## Eductaion
+## **Eductaion**
 
 - Ph.D. in Computer Science and Engineering. Baylor University, Waco, Texas, USA. (Ongoing, Started since 2021)
 - B.S. Computer Science, Brac University, Dhaka, Bangladesh, (Started since 2014, Completed in 2018)
 
-## Research Interest
+## **Research Interest**
 - Machine Learning
 
-## Experience
+## **Experience**
 - Teaching Assistant, BRAC University
   - 2017 - 2018
     - Learned systematic student-instructor communication
@@ -19,3 +19,6 @@
   - 2021 - running
     - Are involved in research related to Machine Learning
     - Mentoring students on Python Programming Language learning
+
+## **Skills**
+  - Java, Python
