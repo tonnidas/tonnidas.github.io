@@ -8,8 +8,8 @@
 
 ## Experience
 - Teaching Assistant, BRAC University
-* 2017 - 2018
-** Learned systematic student-instructor communication
-** Learned effective intermediary communication between supervisor and students
+  - 2017 - 2018
+    - Learned systematic student-instructor communication
+    - Learned effective intermediary communication between supervisor and students
 - Lecturer, Leading University
 - Graduate Research Assistant, Baylor University
