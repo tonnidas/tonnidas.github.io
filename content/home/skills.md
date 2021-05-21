@@ -19,32 +19,23 @@ feature:
 # - description: 90%
 - icon: python
   icon_pack: fab
-  name: python
+  name: Python
 # - description: 90%
 - icon: java
   icon_pack: fab
   name: JAVA
+- icon: ahadoop
+  icon_pack: custom
+  name: Hadoop
 - icon: spark
-  icon_pack: fab
-  name: Spark
-- icon: java
-  icon_pack: fab
-  name: JAVA
-- icon: python
-  icon_pack: fab
-  name: python
-# - description: 90%
-- icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon_pack: custom
+  name: PySpark
+- icon: Mongodb
+  icon_pack: custom
+  name: MongoDB
+- icon: mysql
+  icon_pack: custom
+  name: MySql
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
