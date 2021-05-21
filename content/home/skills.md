@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 55
 
 title: Skills
 subtitle:
@@ -16,8 +16,25 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+# - description: 90%
+- icon: python
+  icon_pack: fab
+  name: python
+# - description: 90%
+- icon: java
+  icon_pack: fab
+  name: JAVA
+- icon: spark
+  icon_pack: fab
+  name: Spark
+- icon: java
+  icon_pack: fab
+  name: JAVA
+- icon: python
+  icon_pack: fab
+  name: python
+# - description: 90%
+- icon: r-project
   icon_pack: fab
   name: R
 - description: 100%

@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tonni Das Jui
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student at Baylor University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Baylor University
+  url: https://www.baylor.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Computer Vision 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Baylor University, USA
+    year: 2025
+  - course: BSc in Computer Science
+    institution: BRAC University, Bangladesh
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,10 +51,10 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gcushen 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/tonnijui/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,14 +64,17 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tonnijuicse@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tonni Das Jui is a PhD student of Computer Science department at the Baylor University and she is currently working as a graduate research and teaching assistant for Baylor. She has completed B.Sc. in Computer Science and Engineering from BRAC University, Bangladesh.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She has two years experience of working as a lecturer at Leading University, Bangladesh as well as one and a half years of work experience as a teaching assistant at BRAC University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+She is enthusiastic to work on Machine Learning, Image Processing and Computer Vision research. Her interests include working on machine learning model fairness and robustness, model's prediction consistency, etc.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/a.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
