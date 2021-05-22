@@ -30,7 +30,7 @@ feature:
 - icon: spark
   icon_pack: custom
   name: PySpark
-- icon: Mongodb
+- icon: mongodb
   icon_pack: custom
   name: MongoDB
 - icon: mysql
