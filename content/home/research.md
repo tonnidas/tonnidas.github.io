@@ -22,11 +22,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "gray"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+  # gradient_end = "LightGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -47,15 +47,13 @@ subtitle = ""
  css_class = ""
 +++
 
-## Microservice Code Analysis
+
 
 - Supervised by [Dr. Tomas Cerny](http://cs.baylor.edu/~cerny/) in Baylor [Cloudhubs](https://cloudhubs.ecs.baylor.edu/) lab.
 - Derive abstract syntax tree (AST) form bytecode and source of microservices.
 - Software architecture reconstruction by resolving inter-microservice REST communication.
 - Detect RBAC inconsistencies in microservice mesh.
 - Automated code smells identification for microservices.
-
-## Lattice Based Cryptography
 
 - Undergraduate thesis on [BKZ Lattice Reduction](https://en.wikipedia.org/wiki/Lattice_reduction) Algorithm under [Dr. Mokammel Haque](https://scholar.google.com/citations?user=DqDct8wAAAAJ).
 - Solved Shortest Vector Problem (SVP) up to dimension 94 on [lattice-challenge](https://www.latticechallenge.org/svp-challenge/halloffame.php) site.
