@@ -12,6 +12,9 @@ weight: 85
 title: Featured Publications
 subtitle: ""
 
+# To show the section in the final page
+active: false
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication

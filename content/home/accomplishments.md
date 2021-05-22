@@ -13,6 +13,9 @@ weight: 40
 title: 'Accomplish&shy;ments'
 subtitle:
 
+# To show the section in the final page
+active: false
+
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006

@@ -12,6 +12,9 @@ weight: 80
 title: 'Recent & Upcoming Talks'
 subtitle:
 
+# To show the section in the final page
+active: false
+
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
