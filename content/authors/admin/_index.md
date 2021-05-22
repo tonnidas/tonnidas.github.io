@@ -76,5 +76,5 @@ She has two years experience of working as a lecturer at Leading University, Ban
 
 She is enthusiastic to work on Machine Learning, Image Processing and Computer Vision research. Her interests include working on machine learning model fairness and robustness, model's prediction consistency, etc.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/a.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
