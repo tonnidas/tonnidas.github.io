@@ -13,6 +13,9 @@ main:
   - name: Skills
     url: '#skills'
     weight: 30
+  - name: Research
+    url: '#research'
+    weight: 35
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
