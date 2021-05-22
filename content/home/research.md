@@ -49,12 +49,7 @@ subtitle = ""
 
 
 
-- Supervised by [Dr. Tomas Cerny](http://cs.baylor.edu/~cerny/) in Baylor [Cloudhubs](https://cloudhubs.ecs.baylor.edu/) lab.
-- Derive abstract syntax tree (AST) form bytecode and source of microservices.
-- Software architecture reconstruction by resolving inter-microservice REST communication.
-- Detect RBAC inconsistencies in microservice mesh.
-- Automated code smells identification for microservices.
 
-- Undergraduate thesis on [BKZ Lattice Reduction](https://en.wikipedia.org/wiki/Lattice_reduction) Algorithm under [Dr. Mokammel Haque](https://scholar.google.com/citations?user=DqDct8wAAAAJ).
-- Solved Shortest Vector Problem (SVP) up to dimension 94 on [lattice-challenge](https://www.latticechallenge.org/svp-challenge/halloffame.php) site.
-- Source code and experimental results are made open-source and posted in [Github](https://github.com/diptadas/bkz-algorithm).
+- Fairness of existing machine learning model
+- Fairness of pre-trained computer vision model
+- Undergraduate thesis on, [3D-Model-Generation](https://en.wikipedia.org/wiki/3D_modeling) of Real-Objects Using Depth and Color Information, where we designed an algorithm to generate a 3D model from 2D pictures after abstracting input RGB and depth data and implemented the algorithm to generate a 3D view to represent clear distancing of multiple objects from a 2D picture.
