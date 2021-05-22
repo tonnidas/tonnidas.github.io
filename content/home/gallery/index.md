@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 66
+weight: 70
 
 title: Gallery
 subtitle:
