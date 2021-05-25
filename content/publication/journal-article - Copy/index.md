@@ -27,8 +27,10 @@ abstract: The process demonstrates a method of generating a 3D model using depth
 # Summary. An optional shortened abstract.
 summary: ""
 
-# tags:
-# - Source Themes
+tags:
+- 
+
+# This is the variable that is needed to be set as false to make this page visible, or true to avoid it 
 featured: false
 
 # links:

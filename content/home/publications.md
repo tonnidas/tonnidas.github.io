@@ -27,6 +27,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
+    # If i set exclude_featured: false, it will also show the all the papers that are marked as "featured: true"
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -37,6 +38,6 @@ design:
   view: 4
 ---
 
-<!-- {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} -->
+{{% callout note %}}
+Click [filter publications](./publication/) button to find specific publication of me or my co-authors.
+{{% /callout %}}

@@ -8,6 +8,7 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
+active: false
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-active: false
+
 
 abstract: Lorem ipsum dolor sit amet
 
@@ -28,7 +29,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 
-featured: false
+# This is the variable that is needed to be set as false to make this page visible, or true to avoid it 
+featured: true
 
 # links:
 # - name: Custom Link
