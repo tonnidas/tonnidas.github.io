@@ -24,7 +24,7 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 1000px
+height: 800px
 
 item:
   - title: Convocation Day, BRAC University, 2020
@@ -34,33 +34,60 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: 1.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: 100.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.9  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Download my app
-    cta_url: 'https://example.org'
-    cta_icon_pack: fas
-    cta_icon: graduation-cap
+    # cta_label: Download my app
+    # cta_url: 'https://example.org'
+    # cta_icon_pack: fas
+    # cta_icon: graduation-cap
 
-  - title: Hello
-    content: 'Grad pic 😄'
+  - title: Fellow Mates of the Journey, 2020
+    content: 'Finally we all have a Bachelor of Science degree 😄'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    # Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: 2.png  # Image path relative to your `assets/media/` folder
-    overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Download my app
-    cta_url: 'https://example.org'
-    cta_icon_pack: fas
-    cta_icon: graduation-cap
+    overlay_img: 101.jpg  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.8  # Darken the image. Value in range 0-1.
+    
+  - title: BRAC University ART SOCIETY, 2017
+    content: 'Started my journey with BRAC University Art Society😄'
+    align: center
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: 102.jpg  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 
+  - title: Leading University Commencement, 2019
+    content: 'Started to work as a lecturer'
+    align: center
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: 105.jpg  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.9  # Darken the image. Value in range 0-1.
+
+  - title: Leading University Commencement, 2019
+    content: 'Had a great time with colleagues!'
+    align: center
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: 106.jpg  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.9  # Darken the image. Value in range 0-1.
+
+  - title: Leading University (LU) Activity, 2020
+    content: 'Memory International Mother Language Day organized by LU!'
+    align: center
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: 107.jpg  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.9  # Darken the image. Value in range 0-1.
+
+  - title: Leading University (LU) Activity, 2020
+    content: 'Everyday journey to LU beside ride-mate for two years!'
+    align: center
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: 108.jpg  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 ---
 
 <!-- {{< gallery >}} -->
