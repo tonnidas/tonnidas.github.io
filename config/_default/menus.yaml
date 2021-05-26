@@ -16,9 +16,9 @@ main:
   - name: Research
     url: '#research'
     weight: 35
-  - name: Recent Posts
-    url: '#posts'
-    weight: 38
+  # - name: Recent Posts
+  #   url: '#posts'
+  #   weight: 38
   - name: Projects
     url: '#projects'
     weight: 40
