@@ -32,9 +32,9 @@ content:
   - name: Database
     tag: Demo
   - name: Hardware Based
-    tag: Demo
+    tag: Hardware 
   - name: Website
-    tag: Demo
+    tag: Website
   - name: Android
     tag: Demo
 
