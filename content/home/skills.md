@@ -36,6 +36,12 @@ feature:
 - icon: mysql
   icon_pack: custom
   name: MySql
+- icon: git
+  icon_pack: fab
+  name: Git
+- icon: hugo
+  icon_pack: custom
+  name: Hugo
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

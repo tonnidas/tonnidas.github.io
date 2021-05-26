@@ -27,9 +27,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Database
+    tag: Demo
+  - name: Hardware Based
+    tag: Demo
+  - name: Website
+    tag: Demo
+  - name: Android
     tag: Demo
 
 design:
