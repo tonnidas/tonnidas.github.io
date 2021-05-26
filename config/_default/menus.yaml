@@ -16,21 +16,24 @@ main:
   - name: Research
     url: '#research'
     weight: 35
-  # - name: Posts
-  #   url: '#posts'
-  #   weight: 20
+  - name: Recent Posts
+    url: '#posts'
+    weight: 38
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: Talks
-    url: '#talks'
-    weight: 50
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 50
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 60
-  - name: Courses
-    url: courses/
+  - name: Gallery
+    url: '#gallery'
     weight: 70
+  # - name: Courses
+  #   url: courses/
+  #   weight: 70
   - name: Contact
     url: '#contact'
     weight: 80
