@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: (Expected) PhD in Computer Science
     institution: Baylor University, USA
     year: 2025
   - course: BSc in Computer Science
