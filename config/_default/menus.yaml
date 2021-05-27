@@ -31,6 +31,9 @@ main:
   - name: Timeline
     url: '#gallery'
     weight: 70
+  - name: Activities
+    url: '#activity'
+    weight: 75
   # - name: Courses
   #   url: courses/
   #   weight: 70
