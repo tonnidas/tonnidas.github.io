@@ -18,7 +18,8 @@ links:
   name: BOXRUN
   url: https://github.com/tonnidas/BoxRun/raw/main/Executable.zip
 url_code: "https://github.com/tonnidas/BoxRun"
-url_pdf: "https://github.com/tonnidas/BoxRun/blob/main/boxgame.pdf"
+url_pdf: media/boxgame.pdf
+# url_pdf: "https://github.com/tonnidas/BoxRun/blob/main/boxgame.pdf"
 # url_slides: ""
 # url_video: ""
 

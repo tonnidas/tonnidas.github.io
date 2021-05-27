@@ -39,22 +39,31 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
+  link: 'mailto:tonnijuicse@gmail.com'
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-  label: Follow me on Twitter
-  display:
-    header: true
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen 
+  link: https://facebook.com/tonnidas.jui
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tonnijui/
+- icon: hackerrank
+  icon_pack: fab
+  link: https://www.hackerrank.com/tonnidas
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/tonnidasjui
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+#   label: Follow me on Twitter
+#   display:
+#     header: true
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=bLkUDVQAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/tonnidas
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -76,5 +85,5 @@ She has two years experience of working as a lecturer at Leading University, Ban
 
 She is enthusiastic to work on Machine Learning, Image Processing and Computer Vision research. Her interests include working on machine learning model fairness and robustness, model's prediction consistency, etc.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}RESUME{{< /staticref >}}.
 
