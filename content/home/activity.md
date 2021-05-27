@@ -55,8 +55,14 @@ subtitle = ""
 
 {{< icon name="palette" pack="fas" >}}  Art & Craft
 - I love to draw.
+- I was Secretary of Art and Photography society, BRAC University (2017).
 
-{{< icon name="camera" pack="fas" >}}  Programming
+{{< icon name="camera" pack="fas" >}}  Photography
 - While site-seeing and travelling, I like to capture a few shots of nature with mobile camera.
+
+{{< icon name="tasks" pack="fas" >}}  Task Management and Leadership
+- Along with completing BSc in Computer Science and Engineering with a higher distinction (CGPA above 3.75), I was actively involved in Art and Photography society.
+- Under my leadership, we earned Championship of BERGER Robialac Alpona competition, 2017 organized by BERGER PAINT.
+- I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}RESUME{{< /staticref >}}. -->
