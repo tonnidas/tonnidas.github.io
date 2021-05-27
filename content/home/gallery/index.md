@@ -25,7 +25,7 @@ height: 650px
 
 item:
   - title: December, 2020
-    content: 'Celebration of Victory Day of Bangladesh 😄'
+    content: 'Celebration of Victory Day of Bangladesh'
     # Choose `center`, `left`, or `right` alignment.
     align: left
 
@@ -42,78 +42,78 @@ item:
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
 
-  - title: Fellow Mates of the Journey, 2020
-    content: 'Finally we all have a Bachelor of Science degree 😄'
+  - title: November, 2019
+    content: 'Convocation of BRAC University'
     # Choose `center`, `left`, or `right` alignment.
-    align: center
+    align: left
     # Overlay a color or image (optional).
     # Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
     overlay_img: nov2019.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.8  # Darken the image. Value in range 0-1.
     
-  - title: BRAC University ART SOCIETY, 2017
-    content: 'Started my journey with BRAC University Art Society😄'
-    align: center
+  - title: November, 2017
+    content: 'BRAC University Convocation, 2019! Yes! We all passed 😄'
+    align: right
     overlay_color: '#666'  # An HTML color value.
     overlay_img: nov2019(2).jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 
-  - title: Leading University Commencement, 2019
-    content: 'Started to work as a lecturer'
-    align: center
+  - title: March, 2019
+    content: 'Leading University Commencement: Started to work as a lecturer'
+    align: right
     overlay_color: '#666'  # An HTML color value.
     overlay_img: march2019(2).jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 
-  - title: Leading University Commencement, 2019
-    content: 'Had a great time with colleagues!'
-    align: center
+  - title: March, 2019
+    content: 'Had a great time with colleagues in the commencement!'
+    align: left
     overlay_color: '#666'  # An HTML color value.
     overlay_img: march2019.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 
-  - title: Leading University (LU) Activity, 2020
-    content: 'Memory International Mother Language Day organized by LU!'
-    align: center
+  - title: February, 2019
+    content: 'Found a great everyday journey mate to Leading University'
+    align: left
     overlay_color: '#666'  # An HTML color value.
     overlay_img: jan2019.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 
-  - title: Leading University (LU) Activity, 2020
-    content: 'Everyday journey to LU beside ride-mate for two years!'
-    align: center
+  - title: January, 2018
+    content: 'Organized a tour with BRAC University Art & Photography Society'
+    align: right
     overlay_color: '#666'  # An HTML color value.
     overlay_img: dec2018.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 
-  - title: Leading University (LU) Activity, 2020
-    content: 'Everyday journey to LU beside ride-mate for two years!'
-    align: center
+  - title: January, 2017
+    content: 'Joined BRAC University Art & Photography Society!'
+    align: right
     overlay_color: '#666'  # An HTML color value.
     overlay_img: jan2017.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 
-  - title: Leading University (LU) Activity, 2020
-    content: 'Everyday journey to LU beside ride-mate for two years!'
-    align: center
-    overlay_color: '#666'  # An HTML color value.
-    overlay_img: jan2016.jpg  # Image path relative to your `assets/media/` folder
-    overlay_filter: 0.9  # Darken the image. Value in range 0-1.
+  # - title: Leading University (LU) Activity, 2020
+  #   content: 'Everyday journey to LU beside ride-mate for two years!'
+  #   align: center
+  #   overlay_color: '#666'  # An HTML color value.
+  #   overlay_img: jan2016.jpg  # Image path relative to your `assets/media/` folder
+  #   overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 
-  - title: Leading University (LU) Activity, 2020
-    content: 'Everyday journey to LU beside ride-mate for two years!'
-    align: center
-    overlay_color: '#666'  # An HTML color value.
-    overlay_img: feb2016.jpg  # Image path relative to your `assets/media/` folder
-    overlay_filter: 0.9  # Darken the image. Value in range 0-1.
+  # - title: Leading University (LU) Activity, 2020
+  #   content: 'Everyday journey to LU beside ride-mate for two years!'
+  #   align: center
+  #   overlay_color: '#666'  # An HTML color value.
+  #   overlay_img: feb2016.jpg  # Image path relative to your `assets/media/` folder
+  #   overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 
-  - title: Leading University (LU) Activity, 2020
-    content: 'Everyday journey to LU beside ride-mate for two years!'
-    align: center
-    overlay_color: '#666'  # An HTML color value.
-    overlay_img: April2015.jpg  # Image path relative to your `assets/media/` folder
-    overlay_filter: 0.9  # Darken the image. Value in range 0-1.
+  # - title: Leading University (LU) Activity, 2020
+  #   content: 'Everyday journey to LU beside ride-mate for two years!'
+  #   align: center
+  #   overlay_color: '#666'  # An HTML color value.
+  #   overlay_img: April2015.jpg  # Image path relative to your `assets/media/` folder
+  #   overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 ---
 
 <!-- {{< gallery >}} --> 
