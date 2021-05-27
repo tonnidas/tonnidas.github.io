@@ -54,9 +54,9 @@ subtitle = ""
 - Spending time on HackerRank attracts me. 
 
 {{< icon name="palette" pack="fas" >}}  Art, Craft & Photography
-- I love to draw.
+- I love to draw. A list of my drawings is here.
 - I was Secretary of Art and Photography society, BRAC University (2017).
-- While site-seeing and travelling, I like to capture a few shots of nature with mobile camera.
+- Like other novice photographers, I like to capture a few shots of nature with mobile camera while site-seeing and travelling. A list of my captured moments are here.
 <!-- 
 {{< icon name="camera" pack="fas" >}}  Photography
 - While site-seeing and travelling, I like to capture a few shots of nature with mobile camera. -->
