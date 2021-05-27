@@ -53,4 +53,10 @@ subtitle = ""
 {{< icon name="laptop-code" pack="fas" >}}  Programming
 - Spending time on HackerRank attracts me. 
 
+{{< icon name="palette" pack="fas" >}}  Art & Craft
+- I love to draw.
+
+{{< icon name="camera" pack="fas" >}}  Programming
+- While site-seeing and travelling, I like to capture a few shots of nature with mobile camera.
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}RESUME{{< /staticref >}}. -->
