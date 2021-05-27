@@ -28,7 +28,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 60
-  - name: Gallery
+  - name: Timeline
     url: '#gallery'
     weight: 70
   # - name: Courses
