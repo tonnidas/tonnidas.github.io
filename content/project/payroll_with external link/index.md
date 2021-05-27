@@ -12,4 +12,16 @@ date: "2016-02-27T00:00:00Z"
 #   caption: Photo by Toa Heftiba on Unsplash
 #   focal_point: Smart
 ---
-This project was an academic project while I was studying in my undergraduate program. A website for showing different employee names with their individual salaries. I implemented CSS, HTML, C#, Visual Studio.
+#### Why I have done it:
+- I built this out of self interest. This was my first website building project.
+
+#### When I have done it: 
+- After I completed graduating from BRAC University, Bangladesh.
+
+#### Technical details: 
+- Visual studio, C#, CSS, HTML5 etc.
+
+#### Description:
+- There is a drop down bar, in which the names of all the employees should be in alphabetic order.
+- By clicking any of the names from the drop down bar, all the details of that employee should be displayed.
+- In click with the generate button there should be a printable page with all the facilities of the employees calculated.
