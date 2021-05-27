@@ -35,8 +35,6 @@ content:
     tag: Hardware 
   - name: Website
     tag: Website
-  - name: Android
-    tag: Demo
   - name: Game
     tag: Game
 
