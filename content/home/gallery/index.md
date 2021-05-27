@@ -93,27 +93,5 @@ item:
     overlay_color: '#666'  # An HTML color value.
     overlay_img: jan2017.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.9  # Darken the image. Value in range 0-1.
-
-  # - title: Leading University (LU) Activity, 2020
-  #   content: 'Everyday journey to LU beside ride-mate for two years!'
-  #   align: center
-  #   overlay_color: '#666'  # An HTML color value.
-  #   overlay_img: jan2016.jpg  # Image path relative to your `assets/media/` folder
-  #   overlay_filter: 0.9  # Darken the image. Value in range 0-1.
-
-  # - title: Leading University (LU) Activity, 2020
-  #   content: 'Everyday journey to LU beside ride-mate for two years!'
-  #   align: center
-  #   overlay_color: '#666'  # An HTML color value.
-  #   overlay_img: feb2016.jpg  # Image path relative to your `assets/media/` folder
-  #   overlay_filter: 0.9  # Darken the image. Value in range 0-1.
-
-  # - title: Leading University (LU) Activity, 2020
-  #   content: 'Everyday journey to LU beside ride-mate for two years!'
-  #   align: center
-  #   overlay_color: '#666'  # An HTML color value.
-  #   overlay_img: April2015.jpg  # Image path relative to your `assets/media/` folder
-  #   overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 ---
-
 <!-- {{< gallery >}} --> 
