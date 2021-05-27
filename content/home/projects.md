@@ -31,7 +31,7 @@ content:
     tag: Machine Learning
   - name: Database
     tag: Demo
-  - name: Hardware Based
+  - name: Hardware
     tag: Hardware 
   - name: Website
     tag: Website
