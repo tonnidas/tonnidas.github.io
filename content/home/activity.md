@@ -63,6 +63,7 @@ subtitle = ""
 {{< icon name="tasks" pack="fas" >}}  Task Management and Leadership
 - Along with completing BSc in Computer Science and Engineering with a higher distinction (CGPA above 3.75), I was actively involved in Art and Photography society.
 - Under my leadership, we earned Championship of BERGER Robialac Alpona competition, 2017 organized by BERGER PAINT.
-- I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society
+- I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society.
+- I maintained Merit Based Scholarship at BRAC University (2014 - 2018)  for whole undergraduate study period while focusing on programming outside course-work.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}RESUME{{< /staticref >}}. -->
