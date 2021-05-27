@@ -53,12 +53,13 @@ subtitle = ""
 {{< icon name="laptop-code" pack="fas" >}}  Programming
 - Spending time on HackerRank attracts me. 
 
-{{< icon name="palette" pack="fas" >}}  Art & Craft
+{{< icon name="palette" pack="fas" >}}  Art, Craft & Photography
 - I love to draw.
 - I was Secretary of Art and Photography society, BRAC University (2017).
-
-{{< icon name="camera" pack="fas" >}}  Photography
 - While site-seeing and travelling, I like to capture a few shots of nature with mobile camera.
+<!-- 
+{{< icon name="camera" pack="fas" >}}  Photography
+- While site-seeing and travelling, I like to capture a few shots of nature with mobile camera. -->
 
 {{< icon name="tasks" pack="fas" >}}  Task Management and Leadership
 - Along with completing BSc in Computer Science and Engineering with a higher distinction (CGPA above 3.75), I was actively involved in Art and Photography society.
