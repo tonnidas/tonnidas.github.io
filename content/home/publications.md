@@ -39,5 +39,6 @@ design:
 ---
 
 {{% callout note %}}
-Click [filter publications](./publication/) button to find specific publication of me or my co-authors.
+[Filter Publications](./publication/)
 {{% /callout %}}
+<!-- Click [filter publications](./publication/) button to find specific publication of me or my co-authors. -->
