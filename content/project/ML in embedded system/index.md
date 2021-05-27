@@ -8,6 +8,8 @@ date: "2021-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Featured image
+# To use, add an image named `featured.jpg` to your project's folder and keep this below section for caption. However, caption is optional. 
 image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart

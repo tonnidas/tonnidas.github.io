@@ -8,6 +8,9 @@ date: "2017-08-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+
+# Featured image
+# To use, add an image named `featured.jpg` to your project's folder and keep this below section for caption. However, caption is optional. 
 image:
   caption: BoxRun Start up page, two level scene page, End page
   focal_point: Smart
