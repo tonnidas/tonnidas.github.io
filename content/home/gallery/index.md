@@ -10,10 +10,7 @@ headless: true
 weight: 90
 
 title: Timeline
-subtitle:
-
-
-
+subtitle: My Stories
 
 active: true
 # ... Put Your Section Options Here (section position etc.) ...
@@ -27,10 +24,11 @@ interval: false
 height: 650px
 
 item:
-  - title: Convocation Day, BRAC University, 2020
-    content: 'I was so happy to receive my graduation with Higher distinction 😄'
+  - title: December, 2020
+    content: 'Celebration of Victory Day of Bangladesh 😄'
     # Choose `center`, `left`, or `right` alignment.
-    align: center
+    align: left
+
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
