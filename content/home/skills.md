@@ -42,6 +42,9 @@ feature:
 - icon: hugo
   icon_pack: custom
   name: Hugo
+- icon: unity
+  icon_pack: fab
+  name: Unity
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
