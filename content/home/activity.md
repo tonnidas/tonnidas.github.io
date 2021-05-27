@@ -67,4 +67,7 @@ subtitle = ""
 - I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society.
 - I maintained Merit Based Scholarship at BRAC University (2014 - 2018)  for entire undergraduate study period while focusing on programming outside course-work.
 
+#### {{< icon name="gamepad" pack="fas" >}}  Task Management and Leadership
+- I like to play games. 😄 My most favorite games are pubg, COD, sims4 etc.
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}RESUME{{< /staticref >}}. -->
