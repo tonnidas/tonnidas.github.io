@@ -47,6 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- Higher Distinction, BRAC University, Bangladesh
+  - For completing Undergraduate degree with a CGPA above 3.75
 - Merit Based Scholarship, BRAC University, Bangladesh
   - For Top results in HSC and SSC and excellence in performance while studying in BRAC University.
 - Sylhet Education Board Scholarship, Ministry of Education, Bangladesh
