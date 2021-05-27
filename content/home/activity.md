@@ -47,13 +47,13 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< icon name="book" pack="fas" >}} Book Reading
+#### {{< icon name="book" pack="fas" >}} Book Reading  
 - I like to read and collect books. A list of my collected Ebooks are [here](https://drive.google.com/drive/folders/1EEb7q1ipjJYnNEare7lgS4gbn9Rg_C7i?usp=sharing).
 
-{{< icon name="laptop-code" pack="fas" >}}  Programming
+#### {{< icon name="laptop-code" pack="fas" >}} Programming 
 - Spending time on [HackerRank](https://www.hackerrank.com/tonnidas) attracts me. 
 
-{{< icon name="palette" pack="fas" >}}  Art, Craft & Photography
+#### {{< icon name="palette" pack="fas" >}} Art, Craft & Photography   
 - I love to draw. A list of my drawings is [here](https://drive.google.com/drive/folders/1oRSnVtxl9Qh-6PAs7MLWWH3jfp9FuLdq?usp=sharing).
 - I was Secretary of Art and Photography society, BRAC University (2017 - 2018).
 - Like other novice photographers, I like to capture a few shots of nature with mobile camera while site-seeing and travelling. A list of my captured moments are [here](https://drive.google.com/drive/folders/1dnQKal5V9wKr0ykn2FvjXV5SXdBDxgr0?usp=sharing).
@@ -61,7 +61,7 @@ subtitle = ""
 {{< icon name="camera" pack="fas" >}}  Photography
 - While site-seeing and travelling, I like to capture a few shots of nature with mobile camera. -->
 
-{{< icon name="tasks" pack="fas" >}}  Task Management and Leadership
+#### {{< icon name="tasks" pack="fas" >}}  Task Management and Leadership
 - Along with completing BSc in Computer Science and Engineering with a higher distinction (CGPA above 3.75), I was actively involved in Art and Photography society.
 - Under my leadership, we earned [Championship of BERGER Robialac Alpona competition](http://www.somoyerkonthosor.com/2016/12/18/77013.htm?fbclid=IwAR3oOUImr3Bm3X9EN5pYfdrR9kmZWLU-Ukvi6xyeNZ5INTYpPaFLn7yOU_0), 2016 organized by BERGER PAINT.
 - I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society.
