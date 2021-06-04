@@ -1,6 +1,7 @@
 ---
-title: Personal Website
-summary: This is the website that this project represent. 
+title: Personal 
+summary: This is the website that this project represent.
+
 tags:
 - Website
 date: "2021-06-27T00:00:00Z"
@@ -10,9 +11,9 @@ external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg` to your project's folder and keep this below section for caption. However, caption is optional. 
-image:
-  caption: 
-  focal_point: Smart
+# image:
+#   caption: 
+#   focal_point: Smart
 
 # links:
 # - icon: twitter
@@ -32,7 +33,6 @@ image:
 
 # slides: example
 ---
-
 This is a static website with hugo.
 
 #### Why I have done it:
