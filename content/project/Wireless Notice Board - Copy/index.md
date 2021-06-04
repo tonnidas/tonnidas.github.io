@@ -1,25 +1,24 @@
 ---
-title: Personal 
+title: Personal Website
 summary: This is the website that this project represent.
-
 tags:
 - Website
-date: "2021-06-27T00:00:00Z"
+date: "2018-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg` to your project's folder and keep this below section for caption. However, caption is optional. 
-# image:
-#   caption: 
-#   focal_point: Smart
+image:
+  caption: Connection of LCD monitor, GSM module with arduino
+  focal_point: Smart
 
 # links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+# - icon: cube
+#   icon_pack: fas
+#   name: BOXRUN
+#   url: https://github.com/tonnidas/BoxRun/raw/main/Executable.zip
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
@@ -33,6 +32,7 @@ external_link: ""
 
 # slides: example
 ---
+
 This is a static website with hugo.
 
 #### Why I have done it:
