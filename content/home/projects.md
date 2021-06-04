@@ -30,7 +30,7 @@ content:
   - name: Machine Learning
     tag: Machine Learning
   - name: Database
-    tag: Demo
+    tag: Database
   - name: Hardware
     tag: Hardware 
   - name: Website
