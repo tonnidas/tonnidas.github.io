@@ -2,7 +2,7 @@
 title: Determining who should be in the hall of Fame
 summary: Determining similarity between two objects of the same type.
 tags:
-- Database
+- Bigdata
 date: "2021-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

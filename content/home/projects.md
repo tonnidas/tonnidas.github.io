@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Machine Learning
     tag: Machine Learning
-  - name: Database
-    tag: Database
+  - name: Bigdata
+    tag: Bigdata
   - name: Hardware
     tag: Hardware 
   - name: Website
