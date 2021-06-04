@@ -1,9 +1,9 @@
 ---
-title: Color Sorter Machine
-summary: A prototype of Color Sorter Machine using MSP430 for mainly separating basic 3 colored (red, blue, green) objects
+title: Personal Website
+summary: This is the website that this project represent. 
 tags:
-- Hardware
-date: "2015-08-27T00:00:00Z"
+- Website
+date: "2021-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -11,7 +11,7 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg` to your project's folder and keep this below section for caption. However, caption is optional. 
 image:
-  caption: Prototype of the Color Sorter
+  caption: 
   focal_point: Smart
 
 # links:
@@ -33,21 +33,16 @@ image:
 # slides: example
 ---
 
-Color sorting machine can sort out different objects and place it in it's bucket according to different colors. 
+This is a static website with hugo.
 
 #### Why I have done it:
-- I built this out of self interest. This was my first website building project.
+- I built this one to represent my professional and personal development. 
 
 #### When I have done it: 
-- After I completed graduating from BRAC University, Bangladesh.
+- After I came to USA for my higher study.
 
 #### Technical details: 
-- I used C programming language, Energia IDE, MSP430, motor sensor, color sensor.
+- An website with github public repository and hugo.
 
 #### Description:
-- It is a device capable of sorting out items of different color in different places.
-- It can be used for sorting different colored fruits in the industries.
-- It has 3 ways for 3 different colors.
-- Each colored object will fall in that colored way.
-- Color sensor detects the color of the object.
-- The motor moves the object according to the ordered angle from `MSP430`.
+- Anyone with this link `https://tonnidas.github.io/` will be able to see my experience, skills, research, projects, publications, timeline, activities, academic awards & scholarships and contact.
