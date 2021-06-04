@@ -1,6 +1,6 @@
 ---
-title: Health Insurance prediction using supervised learning technique
-summary: Predicting health insurance cost for several demographic population.
+title: Health Insurance prediction
+summary: Predicting health insurance cost using supervised learning technique.
 tags:
 - Machine Learning
 date: "2021-04-27T00:00:00Z"

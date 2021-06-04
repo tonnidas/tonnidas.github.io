@@ -1,5 +1,5 @@
 ---
-title: Determining who should be in the hall of Fame
+title: Who should be in the hall of Fame
 summary: Determining similarity between two objects of the same type.
 tags:
 - Bigdata

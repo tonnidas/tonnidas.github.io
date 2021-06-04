@@ -1,6 +1,6 @@
 ---
 title: Wireless Notice Board
-summary: It is for showing a msg in the display sent from faculty member to students who are waiting for him/her
+summary: To display a msg sent from faculty member to students and vise-versa without number sharing.
 tags:
 - Hardware
 date: "2018-02-27T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: Color Sorter Machine
-summary: A prototype of Color Sorter Machine using MSP430 for mainly separating basic 3 colored (red, blue, green) objects
+summary: A prototype for mainly separating basic RGB colored objects.
 tags:
 - Hardware
 date: "2015-08-27T00:00:00Z"

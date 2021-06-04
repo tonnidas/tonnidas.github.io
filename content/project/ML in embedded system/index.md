@@ -1,6 +1,6 @@
 ---
 title: Machine Learning en Sistemas Embebidos 
-summary: Machine Learning en Sistemas Embebidos is a spanish course for Machine Learning in Embedded Systems 
+summary: A spanish course for Machine Learning by Baylor university.
 tags:
 - Website
 date: "2021-04-27T00:00:00Z"
