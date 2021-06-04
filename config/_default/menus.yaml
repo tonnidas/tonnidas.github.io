@@ -32,7 +32,7 @@ main:
     url: '#gallery'
     weight: 70
   - name: Activities
-    url: '#activity'
+    url: '#activities'
     weight: 75
   # - name: Courses
   #   url: courses/
