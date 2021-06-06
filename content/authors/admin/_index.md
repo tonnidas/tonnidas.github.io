@@ -83,7 +83,7 @@ Tonni Das Jui is a PhD student of Computer Science department at the Baylor Univ
 
 She has two years experience of working as a lecturer at Leading University, Bangladesh as well as one and a half years of work experience as a teaching assistant at BRAC University.
 
-She is enthusiastic to work on Machine Learning, Image Processing and Computer Vision research. Her interests include working on machine learning model fairness and robustness, model's prediction consistency, etc.
+Her professional and research is in the fields of Machine Learning, Image Processing, and Computer Vision. Her interests include working on machine learning model fairness and robustness, model's prediction consistency, etc.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}RESUME{{< /staticref >}}.
 
