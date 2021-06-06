@@ -50,6 +50,6 @@ subtitle = ""
 
 
 
-- Fairness of existing machine learning model
-- Fairness of pre-trained computer vision model
+- Fairness and robustness of Machine Learning models.
+- Consistency of the model's prediction.
 - Undergraduate thesis on, [3D-Model-Generation](https://en.wikipedia.org/wiki/3D_modeling) of Real-Objects Using Depth and Color Information, where we designed an algorithm to generate a 3D model from 2D pictures after abstracting input RGB and depth data and implemented the algorithm to generate a 3D view to represent clear distancing of multiple objects from a 2D picture.
