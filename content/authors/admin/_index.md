@@ -46,12 +46,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tonnijui/
-- icon: hackerrank
-  icon_pack: fab
-  link: https://www.hackerrank.com/tonnidas
-- icon: kaggle
-  icon_pack: fab
-  link: https://www.kaggle.com/tonnidasjui
+# - icon: hackerrank
+#   icon_pack: fab
+#   link: https://www.hackerrank.com/tonnidas
+# - icon: kaggle
+#   icon_pack: fab
+#   link: https://www.kaggle.com/tonnidasjui
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

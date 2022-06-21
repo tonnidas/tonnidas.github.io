@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 #### {{< icon name="laptop-code" pack="fas" >}} Programming 
-- Spending time on [HackerRank](https://www.hackerrank.com/tonnidas) attracts me. 
+- Spending time on [HackerRank](https://www.hackerrank.com/tonnidas) and [Leetcode](https://leetcode.com/tonnijuicse/) attracts me. 
 
 #### {{< icon name="book" pack="fas" >}} Book Reading  
 - I like to read and collect books. A list of my collected Ebooks are [here](https://drive.google.com/drive/folders/1EEb7q1ipjJYnNEare7lgS4gbn9Rg_C7i?usp=sharing).
@@ -66,6 +66,6 @@ subtitle = ""
 - I maintained Merit Based Scholarship at BRAC University (2014 - 2018)  for entire undergraduate study period while focusing on programming outside course-work.
 
 #### {{< icon name="gamepad" pack="fas" >}}  Gaming
-- I like to play games. 😄 My most favorite games are pubg, COD, sims4 etc.
+- I like to play games. 😄 My most favorite games are pubg, COD, sims4, Hearts (card game) etc.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}RESUME{{< /staticref >}}. -->

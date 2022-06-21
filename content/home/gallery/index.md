@@ -12,7 +12,7 @@ weight: 90
 title: Timeline
 subtitle: My Stories
 
-active: true
+active: false
 # ... Put Your Section Options Here (section position etc.) ...
 
 # Slide interval.

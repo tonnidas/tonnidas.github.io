@@ -48,8 +48,9 @@ subtitle = ""
 +++
 
 
-
-
-- Fairness and robustness of Machine Learning models.
-- Consistency of the model's prediction.
-- Undergraduate thesis on, [3D-Model-Generation](https://en.wikipedia.org/wiki/3D_modeling) of Real-Objects Using Depth and Color Information, where we designed an algorithm to generate a 3D model from 2D pictures after abstracting input RGB and depth data and implemented the algorithm to generate a 3D view to represent clear distancing of multiple objects from a 2D picture.
+- #### Graph machine learning
+Graphs with missing attribute values for several nodes creates is an issue for using graphs as datasets. However, in real-world, everything can be represented as graphs and a graph with all attribute information for each of nodes is necessary. Most of the researchers works on feature reduction for each node vector representation. However, hop connection information and Semantic information of the network along with network topology leads to better attribute prediction in real-world data. 
+- #### Sign language similarity analysis
+Machine learning methods for sign language similarity measurement, where we have developed a mathod for measuring similarities between sign languages instead of Lexicostatistics. Previously, linguists used Lexicostatistics that referes to a manual process of measuring distances between isolated signs considering four features: Handshape, Orientation, Movement, Location. Segmentation based machine learning model for comparing between their annotations is a more automatic approach. 
+- #### 3D model generation from 2D information
+Undergraduate thesis on, [3D-Model-Generation](https://en.wikipedia.org/wiki/3D_modeling) of Real-Objects Using Depth and Color Information, where we designed an algorithm to generate a 3D model from 2D pictures after abstracting input RGB and depth data and implemented the algorithm to generate a 3D view to represent clear distancing of multiple objects from a 2D picture.
