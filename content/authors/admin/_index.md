@@ -18,8 +18,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
+- Graph Machine Learning
 - Artificial Intelligence
-- Machine Learning
 - Computer Vision 
 
 # Education to show in About widget

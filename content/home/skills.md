@@ -36,6 +36,9 @@ feature:
 - icon: mysql
   icon_pack: custom
   name: MySql
+- icon: postgresql
+  icon_pack: custom
+  name: PostgreSQL
 - icon: git
   icon_pack: fab
   name: Git
@@ -45,6 +48,9 @@ feature:
 - icon: unity
   icon_pack: fab
   name: Unity
+- icon: flask
+  icon_pack: custom
+  name: Flask
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
