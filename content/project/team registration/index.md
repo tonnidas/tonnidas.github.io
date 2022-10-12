@@ -1,6 +1,6 @@
 ---
-title: Registering team in contest
-summary: A SpringBoot application for registering, promoting, modifying teams in contests.
+title: Contest Registering 
+summary: A SpringBoot application for organizing contests.
 tags:
 - Software
 date: "2021-02-27T00:00:00Z"

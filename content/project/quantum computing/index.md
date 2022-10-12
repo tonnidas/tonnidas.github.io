@@ -1,6 +1,6 @@
 ---
 title: Quantum Computing
-summary: This is the website that has some of the public materials of Quantum computing.
+summary: A website for the public materials of Quantum computing.
 tags:
 - Website
 date: "2021-02-27T00:00:00Z"
@@ -14,11 +14,11 @@ image:
   caption: Connection of LCD monitor, GSM module with arduino
   focal_point: Smart
 
-links:
-- 
-  icon_pack: fas
-  name: Quantum Computing Website
-  url: "https://tonnidas.github.io/quantum-exercises/"
+# links:
+# - 
+#   icon_pack: fas
+#   name: Quantum Computing Website
+#   url: "https://tonnidas.github.io/quantum-exercises/"
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""

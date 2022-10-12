@@ -1,6 +1,6 @@
 ---
-title: Sign language similarity
-summary: Determining similarity between two sign languages implementing temporal convolutional network.
+title: SL similarity
+summary: Determining similarity between two sign languages using ML models.
 tags:
 - Machine Learning
 date: "2021-02-27T00:00:00Z"

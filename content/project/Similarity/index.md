@@ -1,6 +1,6 @@
 ---
 title: Hall of Fame
-summary: Determining similarity between two objects of the same type.
+summary: Similarity analysis between two objects of the same type.
 tags:
 - Bigdata
 date: "2021-02-27T00:00:00Z"

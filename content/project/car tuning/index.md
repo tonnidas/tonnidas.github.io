@@ -1,6 +1,6 @@
 ---
 title: Car Tuning
-summary: Determining similarity between two sign languages using 3D multistage temporal convolutional network.
+summary: A SpringBoot application for providing online orders of car parts.
 tags:
 - Software
 date: "2021-02-27T00:00:00Z"

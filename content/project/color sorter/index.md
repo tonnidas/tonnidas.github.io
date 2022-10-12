@@ -1,6 +1,6 @@
 ---
 title: Color Sorter
-summary: A prototype for separating basic RGB colored objects into seperate buckets.
+summary: A prototype device for separating RGB colored objects.
 tags:
 - Hardware
 date: "2015-08-27T00:00:00Z"

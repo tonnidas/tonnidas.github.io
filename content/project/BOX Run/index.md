@@ -1,6 +1,6 @@
 ---
 title: Box Run
-summary: It is a 2-D desktop game run by Unity Engine.
+summary: 2-D desktop game .
 tags:
 - Game
 date: "2017-08-27T00:00:00Z"

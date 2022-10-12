@@ -14,12 +14,12 @@ image:
   caption: Prototype of the Color Sorter
   focal_point: Smart
 
-links:
+# links:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/tonnidas/BearGo"
+# url_code: "https://github.com/tonnidas/BearGo"
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""

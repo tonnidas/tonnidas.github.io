@@ -1,6 +1,6 @@
 ---
 title: Personal Website
-summary: This is the website that this project represent.
+summary: A website developed with Hugo that represents academic and career and basic personal details. 
 tags:
 - Website
 date: "2018-02-27T00:00:00Z"
