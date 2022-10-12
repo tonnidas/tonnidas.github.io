@@ -1,6 +1,6 @@
 ---
-title: Case Study of Quantum Classifiers
-summary: Comparing analysis with a case study between four selected quantum classifiers and classical classifiers.
+title: Quantum Classifiers
+summary: A Comparative analysis of quantum classifiers and corresponding classical classifiers.
 tags:
 - Machine Learning
 date: "2021-04-27T00:00:00Z"

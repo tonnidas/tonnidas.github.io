@@ -29,10 +29,12 @@ content:
     tag: '*'
   - name: Machine Learning
     tag: Machine Learning
-  - name: Bigdata
-    tag: Bigdata
+  - name: Software
+    tag: Software
   - name: Hardware
     tag: Hardware 
+  - name: Bigdata
+    tag: Bigdata
   - name: Website
     tag: Website
   - name: Game

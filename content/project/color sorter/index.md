@@ -1,6 +1,6 @@
 ---
-title: Color Sorter Machine
-summary: A prototype for mainly separating basic RGB colored objects.
+title: Color Sorter
+summary: A prototype for separating basic RGB colored objects into seperate buckets.
 tags:
 - Hardware
 date: "2015-08-27T00:00:00Z"
