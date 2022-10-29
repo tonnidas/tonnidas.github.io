@@ -35,26 +35,29 @@ experience:
         
   - title: Lecturer
     company: Leading University
-    company_url: ''
+    company_url: 'https://www.lus.ac.bd/'
     company_logo: 
     location: Sylhet, Bangladesh
     date_start: '2019-01-01'
     date_end: '2021-01-31'
     description: |2-
-        * Were involved in teaching Programming language (Java), 
-        * Subjects taught: Discrete Mathematics, Artificial Intelligence, Engineering Drawing, Data Structure, Computer Architecture, etc.
+        * Were involved in teaching Programming language (Java, Python)
+        * STaught core concepts of Discrete Mathematics, Artificial Intelligence, Engineering Drawing, Data Structure, Computer Architecture, etc.
         * Mentored students on their mobile and desktop application projects
 
   - title: Graduate Research & Teaching Assistant
     company: Baylor University
-    company_url: ''
+    company_url: 'https://www.baylor.edu/'
     company_logo: 
     location: TX, USA
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        * Are involved in research related to Machine Learning
-        * Mentoring students on Python Programming Language learning
+        * Developed graph embedding technique with adversarial autoencoder on n-hop neighbouring information for link and attribute prediction; [Project](https://github.com/tonnidas/ARGA)
+        * Automated sign language similarity score analysis with implementing a 3D multistage temporal convolutional network instead of traditional Lexicostatistics; [SLSimilarity](https://github.com/tonnidas/sign_similarity)
+        * Developed a mapping study of machine learning model fairness achieving with counterfactual explanations 
+        * Analyzed effect of quantum classifiers and classical classifiers convergence on different types of datasets; [QClassifiers](https://github.com/tonnidas/Quantum-Classifiers)
+        * Mentoring students on Python and Java Programming Language learning
 
 
 

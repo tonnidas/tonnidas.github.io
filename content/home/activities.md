@@ -47,14 +47,17 @@ subtitle = ""
  css_class = ""
 +++
 #### {{< icon name="laptop-code" pack="fas" >}} Programming 
-- Spending time on [HackerRank](https://www.hackerrank.com/tonnidas) and [Leetcode](https://leetcode.com/tonnijuicse/) attracts me. 
+- Solved 150+ problems on [Leetcode](https://leetcode.com/tonnijuicse/) and similar on [HackerRank](https://www.hackerrank.com/tonnidas). 
+
+#### {{< icon name="gamepad" pack="fas" >}}  Gaming
+- Played many popular computer games such as COD, sims, card games etc. 
+- Developed a Unity based game, addressed as [BOX RUN](https://github.com/tonnidas/BoxRun/raw/main/Executable.zip). 
 
 #### {{< icon name="book" pack="fas" >}} Book Reading  
-- I like to read and collect books. A list of my collected Ebooks are [here](https://drive.google.com/drive/folders/1EEb7q1ipjJYnNEare7lgS4gbn9Rg_C7i?usp=sharing).
+- Like to read and collect books. [Online Book collection](https://drive.google.com/drive/folders/1EEb7q1ipjJYnNEare7lgS4gbn9Rg_C7i?usp=sharing).
 
 #### {{< icon name="palette" pack="fas" >}} Art, Craft & Photography   
-- I love to draw. A list of my drawings is [here](https://drive.google.com/drive/folders/1oRSnVtxl9Qh-6PAs7MLWWH3jfp9FuLdq?usp=sharing).
-- A list of my mobile camera captured moments are [here](https://drive.google.com/drive/folders/1dnQKal5V9wKr0ykn2FvjXV5SXdBDxgr0?usp=sharing).
+- Love to [draw](https://drive.google.com/drive/folders/1oRSnVtxl9Qh-6PAs7MLWWH3jfp9FuLdq?usp=sharing) and [photograph](https://drive.google.com/drive/folders/1dnQKal5V9wKr0ykn2FvjXV5SXdBDxgr0?usp=sharing).
 <!-- 
 {{< icon name="camera" pack="fas" >}}  Photography
 - While site-seeing and travelling, I like to capture a few shots of nature with mobile camera. -->
@@ -65,7 +68,6 @@ subtitle = ""
 - I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society.
 - I maintained Merit Based Scholarship at BRAC University (2014 - 2018)  for entire undergraduate study period while focusing on programming outside course-work.
 
-#### {{< icon name="gamepad" pack="fas" >}}  Gaming
-- I like to play games. 😄 My most favorite games are pubg, COD, sims4, Hearts (card game) etc.
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ResumeForWebsite.pdf" "newtab" >}}RESUME{{< /staticref >}}. -->

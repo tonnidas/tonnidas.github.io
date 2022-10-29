@@ -24,6 +24,9 @@ feature:
 - icon: java
   icon_pack: fab
   name: JAVA
+- icon: springBoot
+  icon_pack: custom
+  name: Spring Boot
 - icon: ahadoop
   icon_pack: custom
   name: Hadoop

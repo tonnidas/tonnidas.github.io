@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Graph Machine Learning
+- Graph Embedding
+- Sign Language Similarity Analysis
 - Artificial Intelligence
-- Computer Vision 
 
 # Education to show in About widget
 education:
