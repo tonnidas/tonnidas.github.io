@@ -24,7 +24,7 @@ $ git clone git@github.com:tonnidas/tonnidas.github.io.git
 
 ```
 $ cd Downloads
-$ hugo new site diptadas.github.io --force
+$ hugo new site tonnidas.github.io --force
 ```
 
 - Add a [theme](https://themes.gohugo.io/) using git submodule
