@@ -19,6 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Graph Embedding
+- Graph Machine Learning
 - Sign Language Similarity Analysis
 - Artificial Intelligence
 
@@ -28,6 +29,9 @@ education:
   - course: (Expected) PhD in Computer Science
     institution: Baylor University, USA
     year: 2025
+  - course: (Expected) MSc in Computer Science
+    institution: Baylor University, USA
+    year: 2023
   - course: BSc in Computer Science
     institution: BRAC University, Bangladesh
     year: 2018
@@ -78,12 +82,17 @@ email: "tonnijuicse@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Pursuing PhD at Baylor University in Computer Science with expertise in graph embedding, graph machine learning, sign
+language recognition, and AI ethics resulting in five publications and one book chapter in two years.
 
-Tonni Das Jui is a PhD student of Computer Science department at the Baylor University and she is currently working as a graduate research and teaching assistant for Baylor. She has completed B.Sc. in Computer Science and Engineering from BRAC University, Bangladesh.
+{{< icon name="download" pack="fas" >}}  To learn more about research interest and experience download the {{< staticref "media/Research_CV_Tonni.pdf" "newtab" >}}RESEARCH PROFILE{{< /staticref >}}. 
 
-She has two years experience of working as a lecturer at Leading University, Bangladesh as well as one and a half years of work experience as a teaching assistant at BRAC University.
+Worked as Lecturer at Leading University, Bangladesh for two years as well as as a Teaching Assistant at Baylor University for two years and at BRAC University for one and half years. Completed B.Sc. in Computer Science and Engineering from BRAC University, Bangladesh. 
 
-Her professional and research is in the fields of Machine Learning, Image Processing, and Computer Vision. Her interests include working on machine learning model fairness and robustness, model's prediction consistency, etc.
+Machine Learning enthusiast and actively contributing to developing several tools for embedding graph information, node attribute prediction disregarding feature information, genetic discovery, etc. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/JobResume_v1.pdf" "newtab" >}}RESUME{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "media/Industrial_CV_Tonni.pdf" "newtab" >}}RESUME{{< /staticref >}}.
+
+
+<!-- Change cv file by going to "static/media/" -->
 

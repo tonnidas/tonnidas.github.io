@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Awards & Scholarships"
+title = "Achievements, Awards and Scholarships"
 subtitle = ""
 
 [design]
@@ -47,9 +47,13 @@ subtitle = ""
  css_class = ""
 +++
 
-- Higher Distinction, BRAC University, Bangladesh
+- Received Graduate Travel Award (fund of $400) from [Baylor University Graduate SSchool](https://www.baylor.edu/graduate/index.php?id=988192) for presenting at CSCI'23 conference.
+
+- Maintained Merit Scholarship (funding equaling 75\% of semester credit fees) from [BRAC University](https://www.bracu.ac.bd/) throughout four years (2014 - 2018) by maintaining a CGPA above 3.70 in all semesters. 
+
+- Received Education Board Scholarship twice, for excellence in Higher Secondary School Certificate Examination (H.S.C) and in Secondary School Certificate (S.S.C), from the Ministry of Education, Sylhet, Bangladesh.
+
+<!-- - Higher Distinction, BRAC University, Bangladesh
   - For completing Undergraduate degree with a CGPA above 3.75
 - Merit Based Scholarship, BRAC University, Bangladesh
-  - For Top results in HSC and SSC and excellence in performance while studying in BRAC University.
-- Sylhet Education Board Scholarship, Ministry of Education, Bangladesh
-  - For excellence in Higher Secondary School Certificate Examination (H.S.C) and in Secondary School Certificate (S.S.C). 
+  - For Top results in HSC and SSC and excellence in performance while studying in BRAC University. -->

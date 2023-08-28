@@ -49,6 +49,26 @@ subtitle = ""
 #### {{< icon name="laptop-code" pack="fas" >}} Programming 
 - Solved 150+ problems on [Leetcode](https://leetcode.com/tonnijuicse/) and similar on [HackerRank](https://www.hackerrank.com/tonnidas). 
 
+
+<!-- 
+{{< icon name="camera" pack="fas" >}}  Photography
+- While site-seeing and travelling, I like to capture a few shots of nature with mobile camera. -->
+
+#### {{< icon name="tasks" pack="fas" >}}  Task Management and Leadership
+- Acted as Secretary (3rd in ranking: President, Vice president, Sacretary) of Art and Photography society, BRAC University (2016 - 2018).
+- Under my leadership, we earned [Championship of BERGER Robialac Alpona competition](http://www.somoyerkonthosor.com/2016/12/18/77013.htm?fbclid=IwAR3oOUImr3Bm3X9EN5pYfdrR9kmZWLU-Ukvi6xyeNZ5INTYpPaFLn7yOU_0), 2016 organized by BERGER PAINT.
+- I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society.
+
+#### {{< icon name="palette" pack="fas" >}} Extra Curricular   
+- Love to [draw](https://drive.google.com/drive/folders/1oRSnVtxl9Qh-6PAs7MLWWH3jfp9FuLdq?usp=sharing) and play computer games such as COD, sims, card games etc.
+- Enjoy reviewing places for directing fellow visitors about the place in [Google Local Guide](https://www.google.com/maps/contrib/105336852847465554694/reviews/@33.6032539,-112.2374802,10z?entry=ttu).
+- Like to read (mostly detective stories) and collect books in [Online Book collection](https://drive.google.com/drive/folders/1EEb7q1ipjJYnNEare7lgS4gbn9Rg_C7i?usp=sharing).
+
+
+
+<!-- #### {{< icon name="laptop-code" pack="fas" >}} Programming 
+- Solved 150+ problems on [Leetcode](https://leetcode.com/tonnijuicse/) and similar on [HackerRank](https://www.hackerrank.com/tonnidas). 
+
 #### {{< icon name="gamepad" pack="fas" >}}  Gaming
 - Played many popular computer games such as COD, sims, card games etc. 
 - Developed a Unity based game, addressed as [BOX RUN](https://github.com/tonnidas/BoxRun/raw/main/Executable.zip). 
@@ -62,11 +82,13 @@ subtitle = ""
 {{< icon name="camera" pack="fas" >}}  Photography
 - While site-seeing and travelling, I like to capture a few shots of nature with mobile camera. -->
 
-#### {{< icon name="tasks" pack="fas" >}}  Task Management and Leadership
+
+
+<!-- #### {{< icon name="tasks" pack="fas" >}}  Task Management and Leadership
 - Along with completing BSc in Computer Science and Engineering with a higher distinction, I was Secretary of Art and Photography society, BRAC University (2016 - 2018).
 - Under my leadership, we earned [Championship of BERGER Robialac Alpona competition](http://www.somoyerkonthosor.com/2016/12/18/77013.htm?fbclid=IwAR3oOUImr3Bm3X9EN5pYfdrR9kmZWLU-Ukvi6xyeNZ5INTYpPaFLn7yOU_0), 2016 organized by BERGER PAINT.
 - I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society.
-- I maintained Merit Based Scholarship at BRAC University (2014 - 2018)  for entire undergraduate study period while focusing on programming outside course-work.
+- I maintained Merit Based Scholarship at BRAC University (2014 - 2018)  for entire undergraduate study period while focusing on programming outside course-work. --> 
 
 
 

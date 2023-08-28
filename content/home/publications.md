@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -38,7 +38,7 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 [Filter Publications](./publication/)
-{{% /callout %}}
+{{% /callout %}} -->
 <!-- Click [filter publications](./publication/) button to find specific publication of me or my co-authors. -->

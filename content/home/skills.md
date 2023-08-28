@@ -20,6 +20,21 @@ feature:
 - icon: python
   icon_pack: fab
   name: Python
+- icon: tensorflow
+  icon_pack: custom
+  name: Tensorflow
+- icon: scikitLearn
+  icon_pack: custom
+  name: Scikit-Learn
+- icon: spark
+  icon_pack: custom
+  name: PySpark
+- icon: postgresql
+  icon_pack: custom
+  name: PostgreSQL
+- icon: flask
+  icon_pack: custom
+  name: Flask
 # - description: 90%
 - icon: java
   icon_pack: fab
@@ -27,33 +42,29 @@ feature:
 - icon: springBoot
   icon_pack: custom
   name: Spring Boot
+- icon: git
+  icon_pack: fab
+  name: Git
 - icon: ahadoop
   icon_pack: custom
   name: Hadoop
-- icon: spark
-  icon_pack: custom
-  name: PySpark
+
 - icon: mongodb
   icon_pack: custom
   name: MongoDB
 - icon: mysql
   icon_pack: custom
   name: MySql
-- icon: postgresql
-  icon_pack: custom
-  name: PostgreSQL
-- icon: git
-  icon_pack: fab
-  name: Git
+
 - icon: hugo
   icon_pack: custom
   name: Hugo
 - icon: unity
   icon_pack: fab
   name: Unity
-- icon: flask
-  icon_pack: custom
-  name: Flask
+
+
+# Place custom SVG icon in `assets/media/icons/` 
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

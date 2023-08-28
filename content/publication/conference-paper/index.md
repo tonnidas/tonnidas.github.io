@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The research explored the opportunities to save times while  conducting student attendance in universities and colleges.  The research also emphasizes on minimizing proxy  attendance among students. In order to maintain a  sophisticated attendance system we have designed and  developed methodology which has unique features that will  allow lecturers and teachers to spend more productive hours  with their students. This research mainly focuses on smart  attendance system which allows classroom authorities to save  valuable hours. To increase student‟s attendance by  eliminating proxy attendance also a vital focus area of this  very research. Using a mobile and web application  development platform ensures security and effectiveness to  collect students attendance data and manage storage for it  without single paperwork. Unique identity of students for  protecting valid student‟s attendance from being adulterated  by proxy or fake students is provided to both users end  (teachers end and students end). The availability of smart devices may make sure of utilizing campus network.  
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -28,7 +28,7 @@ tags:
 - 
 
 # This is the variable that is needed to be set as false to make this page visible, or true to avoid it 
-featured: true
+featured: false
 
 links:
 - name: Custom Link
