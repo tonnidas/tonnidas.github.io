@@ -18,10 +18,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Graph Embedding
 - Graph Machine Learning
-- Sign Language Similarity Analysis
-- Artificial Intelligence
+- Graph Contrastive Learning
+- Fairness in AI
+- Quantum Machine Learning
 
 # Education to show in About widget
 education:
@@ -29,7 +29,7 @@ education:
   - course: (Expected) PhD in Computer Science
     institution: Baylor University, USA
     year: 2025
-  - course: (Expected) MSc in Computer Science
+  - course: MSc in Computer Science
     institution: Baylor University, USA
     year: 2023
   - course: BSc in Computer Science
