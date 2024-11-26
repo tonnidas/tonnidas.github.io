@@ -82,14 +82,18 @@ email: "tonnijuicse@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Pursuing PhD at Baylor University in Computer Science with expertise in graph embedding, graph machine learning, sign
-language recognition, and AI ethics resulting in five publications and one book chapter in two years.
+<!-- **Biography**   -->
 
-{{< icon name="download" pack="fas" >}}  To learn more about research interest and experience download the {{< staticref "media/Research_CV_Tonni.pdf" "newtab" >}}RESEARCH PROFILE{{< /staticref >}}. 
+I grew up in Bangladesh and completed my bachelor's degree in Computer Science at BRAC University, Dhaka, in 2018. During my undergraduate studies, I worked as a Teaching Assistant, fostering my passion for education. After graduation, I joined Leading University, Sylhet, in 2019 as a Lecturer in the Computer Science department, where I guided students in various innovative projects.
 
-Worked as Lecturer at Leading University, Bangladesh for two years as well as as a Graduate Teaching and Research Assistant at Baylor University for two years and at BRAC University for one and half years. Completed B.Sc. in Computer Science and Engineering from BRAC University, Bangladesh. 
+In Spring 2021, I was awarded a fully funded scholarship to pursue a Ph.D. at Baylor University. My research centers on Graph Machine Learning, with a focus on GNNs and Graph Contrastive Learning for classification tasks. Over the course of my Ph.D., I have authored 10+ publications and a book chapter, accumulating over 40 citations in three years. I aim to graduate in 2025 under the mentorship of Dr. Mary Lauren Benton and Dr. Erich Baker.
 
-Machine Learning enthusiast and actively contributing to developing several tools for embedding graph information, node attribute prediction disregarding feature information, genetic discovery, etc. 
+
+<!-- {{< icon name="download" pack="fas" >}}  To learn more about research interest and experience download the {{< staticref "media/Research_CV_Tonni.pdf" "newtab" >}}RESEARCH PROFILE{{< /staticref >}}.  -->
+
+<!-- Worked as Lecturer at Leading University, Bangladesh for two years as well as as a Graduate Teaching and Research Assistant at Baylor University for two years and at BRAC University for one and half years. Completed B.Sc. in Computer Science and Engineering from BRAC University, Bangladesh. 
+
+Machine Learning enthusiast and actively contributing to developing several tools for embedding graph information, node attribute prediction disregarding feature information, genetic discovery, etc.  -->
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "media/Industrial_CV_Tonni.pdf" "newtab" >}}RESUME{{< /staticref >}}.
 
