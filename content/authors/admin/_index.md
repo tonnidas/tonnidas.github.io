@@ -87,7 +87,7 @@ language recognition, and AI ethics resulting in five publications and one book 
 
 {{< icon name="download" pack="fas" >}}  To learn more about research interest and experience download the {{< staticref "media/Research_CV_Tonni.pdf" "newtab" >}}RESEARCH PROFILE{{< /staticref >}}. 
 
-Worked as Lecturer at Leading University, Bangladesh for two years as well as as a Teaching Assistant at Baylor University for two years and at BRAC University for one and half years. Completed B.Sc. in Computer Science and Engineering from BRAC University, Bangladesh. 
+Worked as Lecturer at Leading University, Bangladesh for two years as well as as a Graduate Teaching and Research Assistant at Baylor University for two years and at BRAC University for one and half years. Completed B.Sc. in Computer Science and Engineering from BRAC University, Bangladesh. 
 
 Machine Learning enthusiast and actively contributing to developing several tools for embedding graph information, node attribute prediction disregarding feature information, genetic discovery, etc. 
 

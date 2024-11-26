@@ -20,6 +20,9 @@ feature:
 - icon: python
   icon_pack: fab
   name: Python
+- icon: pytorch
+  icon_pack: custom
+  name: PyTorch
 - icon: tensorflow
   icon_pack: custom
   name: Tensorflow
