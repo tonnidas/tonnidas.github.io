@@ -95,7 +95,7 @@ In Spring 2021, I was awarded a fully funded scholarship to pursue a Ph.D. at Ba
 
 Machine Learning enthusiast and actively contributing to developing several tools for embedding graph information, node attribute prediction disregarding feature information, genetic discovery, etc.  -->
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "media/Industrial_CV_Tonni.pdf" "newtab" >}}RESUME{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "media/Tonni_extensive_website.pdf" "newtab" >}}RESUME{{< /staticref >}}.
 
 
 <!-- Change cv file by going to "static/media/" -->
