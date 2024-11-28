@@ -27,14 +27,15 @@ experience:
     company_url: 'https://www.notion.so/Benton-Lab-1503c1f6fde342ecbda5da25f1d48353'
     company_logo: 
     location: TX, USA
-    date_start: '2022-05-01'
+    date_start: '2023-01-01'
     date_end: ''
     description: |2-
-        * Developed graph embedding technique for node attribute prediction by employing in graphs with topoogical information independent of node contents by expanding state-of-the-art embeddings focusing to topology and feature information. 
-        * Analyzed multiple graph information (node contents, topological inforation, topological embedding, node properties information indicating data flow through each node) impact on node attribute prediction for homogeneous graph datasets. 
-        * Developed an algorithm to generate k-hopped topological and feature information for graph embeddings and analyzed their influence on six embedding techniques.
-        * Automated gene properties (p-value) prediction from gene's ontopological inter-relations for certain disease (Alzheimer's) disregarding gene's other properties.
-        * Automated analyzing technique for involvement of gene and genesets clustering for several diseases from GeneWeaver platform. 
+        * Utilized parameterizable topology in attention and aggregation functions for classification in graph.
+
+        * Implemented topological information targeting dynamic attention generation. 
+         
+        * Information augmentation for contrastive learning in graph embedding techniques. 
+
         * Projects: [Topological graph embedding](https://github.com/tonnidas/AttributePrediction_FeatureVsTopology), [Graph information influence](https://github.com/tonnidas/AttributePredictionGraphTopology), [k-hop](https://github.com/tonnidas/LinkPrediction_Comparison_Hop), [k-hop_ARGA](https://github.com/tonnidas/LinkPrediction_ARGA_Hop), [P-value](https://github.com/tonnidas/Pvalue_Prediction)
 
   - title: Graduate Research Assistant
@@ -43,23 +44,12 @@ experience:
     company_logo: 
     location: TX, USA
     date_start: '2021-05-01'
-    date_end: '2021-12-01'
+    date_end: '2023-12-30'
     description: |2-
-        * Automated sign language similarity analysis with implementing a 3D multistage temporal convolutional network instead of traditional Lexicostatistics.
-        * Developed a mapping study of machine learning model, fairness and feasibility of these AI models, methodologies to achieve them, challanges and prospective methods. 
-        * Analyzed effect of quantum classifiers and classical classifiers convergence on different types of seperable and datasets.
-        * Projects: [SLSimilarity](https://github.com/tonnidas/sign_similarity), [QClassifiers](https://github.com/tonnidas/Quantum-Classifiers)
-
-  - title: Graduate Teaching Assistant
-    company: Baylor University
-    company_url: 'https://www.baylor.edu/'
-    company_logo: 
-    location: TX, USA
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        * Mentored students on Python and Java Programming Language learning. 
-        * Instructed lab classes on programming. 
+        * Developed method for sign language similarity analysis with multistage temporal CNN over Lexicostatistics.
+        * Analyzed fairness and feasibility of ML models through a mapping approach. 
+        * Analyzed quantum and classical classifiers on real-world seperable and nonseperable datasets.
+        * Projects: [SLSimilarity](https://github.com/tonnidas/sign_similarity), [QClassifiers](https://github.com/tonnidas/Quantum-Classifiers), [FairAI](https://link.springer.com/article/10.1007/s13042-023-02083-2)
         
   - title: Lecturer
     company: Leading University
@@ -69,9 +59,9 @@ experience:
     date_start: '2019-01-01'
     date_end: '2021-01-31'
     description: |2-
-        * Taught courses: Artificial Intelligence (Cognitive Computing, Machine Learning, Bias and AI Ethics, and examples of AI applications), Data Structures (Arrays, singly/doubly Linked lists, Stacks, Queues, Tree traversal and graph traversal techniques, Hash tables, and BST), Discrete Mathematics (Set theory, Logic, Number theory, Proofs, Graph theory, and statistics) etc.
-        * Mentored students on more tha ten Python projects and android based app (mobile and desktop application) development projects.
-        * View [Faculty Profile](https://www.lus.ac.bd/author/tonni/)
+        * Taught courses: Artificial Intelligence, Data Structures, Discrete Mathematics etc.
+        * Mentored students on various android based mobile and desktop app.
+        * Affiliation: [Faculty Profile](https://www.lus.ac.bd/author/tonni/)
 
   - title: Teaching Assistant
     company: BRAC University
@@ -81,8 +71,8 @@ experience:
     date_start: '2017-01-01'
     date_end: '2018-04-30'
     description: |2-        
-        * Instructed classes of around 30 students on Object-oriented programming with Java. 
-        * Learned to handle classroom situations as well as student-instructor communication
+        * Instructed classes, specially on Object-oriented programming (OOP) concepts. 
+        * Guided students on intense programming in Python and Java
 
 
 
