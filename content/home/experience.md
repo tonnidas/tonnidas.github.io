@@ -44,7 +44,7 @@ experience:
     company_logo: 
     location: TX, USA
     date_start: '2021-05-01'
-    date_end: '2023-12-30'
+    date_end: '2022-12-30'
     description: |2-
         * Developed method for sign language similarity analysis with multistage temporal CNN over Lexicostatistics.
         * Analyzed fairness and feasibility of ML models through a mapping approach. 
