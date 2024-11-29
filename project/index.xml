@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Tonni Das Jui</title><link>/project/</link><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hueab7d6d199de416be2b9f9dfddb82a1a_48284_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>/project/</link></image><item><title>Health Insurance prediction</title><link>/project/insurance-prediction/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>/project/insurance-prediction/</guid><description>&lt;p>Since its emergence, health insurance has increased in popularity in both developed and developing countries. Underdeveloped countries are now working toward developing a healthcare system to assist people in avoiding bankruptcy due to medical expenses. Individuals who have health insurance have the advantage of paying a lower amount for medical care than the bill, which helps them deal with unexpectedly high medical bills. Government or private entities offer health care packages. For several organizations, such as hospitals, an accurate estimation of health costs is important. It necessitates the prediction of insurance costs based on an analytical dataset of important individual variables such as age, average monthly medical costs, and so on. In this paper, we investigate the dataset from Brett Lantz&amp;rsquo;s book Machine Learning with R which was simulated using demographic statistics in the United States, and we compare the efficiency of various models in predicting insurance costs on this dataset. To predict the cost, we employed Linear Regression, Ridge Regression, Support Vector Regression, Regression with Neural Network, and Random Forest Regression, and we faced overfitting issues by running several experiments with tuning the hyper-parameters of the best performing model.&lt;/p></description></item><item><title>Machine Learning en Sistemas Embebidos</title><link>/project/ml-in-embedded-system/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>/project/ml-in-embedded-system/</guid><description>&lt;p>Machine Learning en Sistemas Embebidos is a spanish course for Machine Learning in Embedded Systems. this course was initiated by Dr. Pablo Rivas, who is working for Baylor University. He is the main instructor in this course. Along with Dr. Rivas, Dr. Javier Orduz, Dr. Graciela Ramirez Alonso and Ernesto Quevedo Caballero also were involved in preparing course materials. I was responsible for backend maintenance.&lt;/p>
+&lt;p>I was involved in this project as a Research Assistant for Dr. Rivas in his Artificial Intelligence lab at Baylor University. This was one of the many projects that was involved in.&lt;/p></description></item><item><title>Quantum Classifiers</title><link>/project/quantum-classifier/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>/project/quantum-classifier/</guid><description>&lt;p>In recent years, researchers are looking into data transformations in the quantum information space to see whether they may improve robustness and performance. The evolution of quantum mechanics occurred because it could explain specific scenarios in which conventional formulas failed. As a result, it began to expand in analytical research domains such as machine learning, and it is now capable of functioning correctly, and in some circumstances better than classical machine learning. Classification is one of the crucial areas in Machine Learning (ML), and quantum classification analysis has started to gain prominence. In this paper, we focus on implementing four classification algorithms such as Support Vector Classification with Quantum Kernel (SVCQK), Quantum Support Vector Classifier (QSVC), Variational Quantum Classifier (VQC), and Circuit Quantum Neural Network Classifier (CQNNC). We also provide analytical results of case studies with various generated classifiable and semi-classifiable datasets. This study is to determine whether quantum information theory may shorten learning time or improve convergence when compared to traditional approaches.&lt;/p></description></item><item><title>Bear Go</title><link>/project/bear-go/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/bear-go/</guid><description/></item><item><title>Car Tuning</title><link>/project/car-tuning/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/car-tuning/</guid><description/></item><item><title>Contest Registering</title><link>/project/team-registration/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/team-registration/</guid><description>&lt;p>Due to the lack of more variate, native and continuous datasets, sign languages are low-resources languages that can benefit from multilingualism in machine translation. In order to analyze the benefits of approaches like multilingualism, finding the similarity between sign languages can guide better matches and contributions between languages. However, calculating the similarity between sign languages again implies a laborious work to measure how close or distant signs are and their respective contexts. For that reason, we propose to support the similarity measurement between sign languages through a video-segmentation-based machine learning model that will quantify this match among signs of different countries&amp;rsquo; sign languages. Using a machine learning approach the similarity measurement process can run more smoothly, compared to a more manual approach. We use a pre-trained temporal segmentation model for British Sign Language (BSL). We test it on three datasets, an American Sign Language (ASL) dataset, an Indian Sign Language (ISL), and an Australian Sign Language (AUSLAN) dataset. We hypothesize that the percentage of segmented and recognized signs by this machine learning model can represent the percentage of overlap or similarity between British and the other three sign languages. In our ongoing work, we evaluate three metrics considering Swadesh&amp;rsquo;s and Woodward&amp;rsquo;s list and their synonyms. We found that our intermediate-strict metric coincides with a more classical analysis of the similarity between British and American Sign Language, as well as with the classical low measurement between Indian and British sign languages. On the other hand, our similarity measurement between British and Australian Sign language just holds for part of the Australian Sign Language and not the whole data sample.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I developed this project as a research work for Baylor AI lab while working as a research assistant at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>While I was in my second semester (Fall 2021) at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>I used Python, tensorflow for this project.&lt;/li>
+&lt;/ul></description></item><item><title>Hall of Fame</title><link>/project/similarity/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/similarity/</guid><description>&lt;p>A common activity for big data is determining similarity between two objects of the same type. Baseball reference has a formula for computing the similarity of players, found &lt;a href="https://www.baseball-reference.com/about/similarity.shtml" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>The aim of this project was to look for players that should be in the Hall of Fame, but they are not using &lt;a href="http://www.seanlahman.com/baseball-archive/statistics/" target="_blank" rel="noopener">Lahman’s Baseball Database&lt;/a>. We say a player should be in the Hall of Fame is at least 3 of the 5 most similar players are in the Hall of Fame. This is also using similarity as the distance function with the kNN problem.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this project as an assignment for Cloud Computing course while studying at Baylor University. I enjoyed solving these problems with new technologies.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>While I was in my first semester (Spring 2021) at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>I used pySpark (RDD, Python), Dask (Python, Dask Bag), MongoDB (file system, MongoDB Query Language (MQL)) separately to solve the problem using the public Lahman&amp;rsquo;s Baseball dataset.&lt;/li>
+&lt;/ul></description></item><item><title>Quantum Computing</title><link>/project/quantum-computing/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/quantum-computing/</guid><description>&lt;p>This is a static website with hugo.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this one to store important notes and course materials.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>In summer 2021.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>A website with github public repository and hugo.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>Anyone with this link &lt;code>https://tonnidas.github.io/quantum-exercises/&lt;/code> should be able to see my website for this course work.&lt;/li>
+&lt;/ul></description></item><item><title>SL similarity</title><link>/project/sign-language/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/sign-language/</guid><description>&lt;p>Due to the lack of more variate, native and continuous datasets, sign languages are low-resources languages that can benefit from multilingualism in machine translation. In order to analyze the benefits of approaches like multilingualism, finding the similarity between sign languages can guide better matches and contributions between languages. However, calculating the similarity between sign languages again implies a laborious work to measure how close or distant signs are and their respective contexts. For that reason, we propose to support the similarity measurement between sign languages through a video-segmentation-based machine learning model that will quantify this match among signs of different countries&amp;rsquo; sign languages. Using a machine learning approach the similarity measurement process can run more smoothly, compared to a more manual approach. We use a pre-trained temporal segmentation model for British Sign Language (BSL). We test it on three datasets, an American Sign Language (ASL) dataset, an Indian Sign Language (ISL), and an Australian Sign Language (AUSLAN) dataset. We hypothesize that the percentage of segmented and recognized signs by this machine learning model can represent the percentage of overlap or similarity between British and the other three sign languages. In our ongoing work, we evaluate three metrics considering Swadesh&amp;rsquo;s and Woodward&amp;rsquo;s list and their synonyms. We found that our intermediate-strict metric coincides with a more classical analysis of the similarity between British and American Sign Language, as well as with the classical low measurement between Indian and British sign languages. On the other hand, our similarity measurement between British and Australian Sign language just holds for part of the Australian Sign Language and not the whole data sample.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I developed this project as a research work for Baylor AI lab while working as a research assistant at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>While I was in my second semester (Fall 2021) at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>I used Python, tensorflow for this project.&lt;/li>
+&lt;/ul></description></item><item><title>Personal Website</title><link>/project/personal-website/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>/project/personal-website/</guid><description>&lt;p>This is a static website with hugo.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this one to represent my professional and personal development.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>After I came to USA for my higher study.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>An website with github public repository and hugo.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>Anyone with this link &lt;code>https://tonnidas.github.io/&lt;/code> will be able to see my experience, skills, research, projects, publications, timeline, activities, academic awards &amp;amp; scholarships and contact.&lt;/li>
+&lt;/ul></description></item><item><title>Wireless Notice Board</title><link>/project/wireless-notice-board/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>/project/wireless-notice-board/</guid><description>&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>For my Digital System Design course in my undergraduate program at BRAC University, I came up with the idea of this project.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I have done it while I was in my 4rt year of undergraduate program at BRAC University, Bangladesh.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>GSM module, Arduino mega, LED display, C language etc.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>It Can show msg that is sent from a mobile number which is coded in the machine and can receive msg while anyone presses the button.&lt;/li>
+&lt;li>It is a wireless device that allows sending and receiving massages from/to a phone and display received massages on the display of the device.&lt;/li>
+&lt;li>It is used for updating students about information’s by faculty if the faculty is not at the office when the students come to visit him.&lt;/li>
+&lt;li>The student can press the button to send a notification to the faculty and when the faculty sees it in his phone he can reply the msg and the msg should be shown on the led screen.&lt;/li>
+&lt;/ul></description></item><item><title>Box Run</title><link>/project/box-run/</link><pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate><guid>/project/box-run/</guid><description>&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I was interested in games and staff and so, I though lets try to build one myself.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I have done it while I was in my 3rd year of undergraduate program at BRAC University, Bangladesh.&lt;/li>
+&lt;/ul>
+&lt;h4 id="with-whom-i-have-done-it">With whom I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I had another group mate to help me with it namely Md. Alium Basir. He was as passionate as me to play a game that we have created ourselves.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>We used Unity and C# programming language.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>It was a beginner level desktop based 3D Game with 3 levels along with a start and end page. A person can run this game directly using the &lt;code>BOXRUN&lt;/code> file in windows based pc. Click that button on the website and download the file and run it.&lt;/li>
+&lt;li>Its player is a movable cube that the user/player could move only right or left.&lt;/li>
+&lt;li>The cube always moves forward with a constant speed in each level. As the level goes up, the speed of the cube goes up too. It means that in level one the speed is moderate without any acceleration. after passing the level one, player moves to level two and here, the speed is more than the level one. the speed is default.&lt;/li>
+&lt;li>The cube runs through a road full of objects. Main goal of the player is to successfully reach the end of the path in each level by passing all the obstacles to go to next level. Once the player has completed all the three levels, he has finished this game. (However, the third levels speed was insanely high which made it hard to pass).&lt;/li>
+&lt;li>The cube maintains the physics of law (while colliding and moving).&lt;/li>
+&lt;li>User will play on the player cubes perspective.&lt;/li>
+&lt;/ul>
+&lt;h4 id="how-to-run-the-game-directly">How to run the game directly:&lt;/h4>
+&lt;ul>
+&lt;li>You can run the game directly by clicking the &lt;code>BOXRUN&lt;/code> button. It will download a folder which you will need to extract and than inside the folder you will find BOXRUN.exe file. Clicking this file will take you to the game. Remember you need this whole folder to make it work without any other software support. And you can run this game only in windows version.&lt;/li>
+&lt;/ul></description></item><item><title>Payroll Management</title><link>/project/payroll_with-external-link/</link><pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate><guid>/project/payroll_with-external-link/</guid><description>&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this out of self interest. This was my first website building project.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>After I completed graduating from BRAC University, Bangladesh.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>Visual studio, C#, CSS, HTML5 etc.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>There is a drop down bar, in which the names of all the employees should be in alphabetic order.&lt;/li>
+&lt;li>By clicking any of the names from the drop down bar, all the details of that employee should be displayed.&lt;/li>
+&lt;li>In click with the generate button there should be a printable page with all the facilities of the employees calculated.&lt;/li>
+&lt;/ul></description></item><item><title>Color Sorter</title><link>/project/color-sorter/</link><pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate><guid>/project/color-sorter/</guid><description>&lt;p>Color sorting machine can sort out different objects and place it in it&amp;rsquo;s bucket according to different colors.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this out of self interest. This was my first website building project.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>After I completed graduating from BRAC University, Bangladesh.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>I used C programming language, Energia IDE, MSP430, motor sensor, color sensor.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>It is a device capable of sorting out items of different color in different places.&lt;/li>
+&lt;li>It can be used for sorting different colored fruits in the industries.&lt;/li>
+&lt;li>It has 3 ways for 3 different colors.&lt;/li>
+&lt;li>Each colored object will fall in that colored way.&lt;/li>
+&lt;li>Color sensor detects the color of the object.&lt;/li>
+&lt;li>The motor moves the object according to the ordered angle from &lt;code>MSP430&lt;/code>.&lt;/li>
+&lt;/ul></description></item></channel></rss>

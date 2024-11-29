@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Website | Tonni Das Jui</title><link>/tag/website/</link><atom:link href="/tag/website/index.xml" rel="self" type="application/rss+xml"/><description>Website</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hueab7d6d199de416be2b9f9dfddb82a1a_48284_512x512_fill_lanczos_center_3.png</url><title>Website</title><link>/tag/website/</link></image><item><title>Machine Learning en Sistemas Embebidos</title><link>/project/ml-in-embedded-system/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>/project/ml-in-embedded-system/</guid><description>&lt;p>Machine Learning en Sistemas Embebidos is a spanish course for Machine Learning in Embedded Systems. this course was initiated by Dr. Pablo Rivas, who is working for Baylor University. He is the main instructor in this course. Along with Dr. Rivas, Dr. Javier Orduz, Dr. Graciela Ramirez Alonso and Ernesto Quevedo Caballero also were involved in preparing course materials. I was responsible for backend maintenance.&lt;/p>
+&lt;p>I was involved in this project as a Research Assistant for Dr. Rivas in his Artificial Intelligence lab at Baylor University. This was one of the many projects that was involved in.&lt;/p></description></item><item><title>Quantum Computing</title><link>/project/quantum-computing/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/quantum-computing/</guid><description>&lt;p>This is a static website with hugo.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this one to store important notes and course materials.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>In summer 2021.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>A website with github public repository and hugo.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>Anyone with this link &lt;code>https://tonnidas.github.io/quantum-exercises/&lt;/code> should be able to see my website for this course work.&lt;/li>
+&lt;/ul></description></item><item><title>Personal Website</title><link>/project/personal-website/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>/project/personal-website/</guid><description>&lt;p>This is a static website with hugo.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this one to represent my professional and personal development.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>After I came to USA for my higher study.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>An website with github public repository and hugo.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>Anyone with this link &lt;code>https://tonnidas.github.io/&lt;/code> will be able to see my experience, skills, research, projects, publications, timeline, activities, academic awards &amp;amp; scholarships and contact.&lt;/li>
+&lt;/ul></description></item><item><title>Payroll Management</title><link>/project/payroll_with-external-link/</link><pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate><guid>/project/payroll_with-external-link/</guid><description>&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this out of self interest. This was my first website building project.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>After I completed graduating from BRAC University, Bangladesh.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>Visual studio, C#, CSS, HTML5 etc.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>There is a drop down bar, in which the names of all the employees should be in alphabetic order.&lt;/li>
+&lt;li>By clicking any of the names from the drop down bar, all the details of that employee should be displayed.&lt;/li>
+&lt;li>In click with the generate button there should be a printable page with all the facilities of the employees calculated.&lt;/li>
+&lt;/ul></description></item></channel></rss>
