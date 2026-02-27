@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bigdata | Tonni Das Jui</title><link>/tag/bigdata/</link><atom:link href="/tag/bigdata/index.xml" rel="self" type="application/rss+xml"/><description>Bigdata</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hueab7d6d199de416be2b9f9dfddb82a1a_48284_512x512_fill_lanczos_center_3.png</url><title>Bigdata</title><link>/tag/bigdata/</link></image><item><title>Hall of Fame</title><link>/project/similarity/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/similarity/</guid><description>&lt;p>A common activity for big data is determining similarity between two objects of the same type. Baseball reference has a formula for computing the similarity of players, found &lt;a href="https://www.baseball-reference.com/about/similarity.shtml" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>The aim of this project was to look for players that should be in the Hall of Fame, but they are not using &lt;a href="http://www.seanlahman.com/baseball-archive/statistics/" target="_blank" rel="noopener">Lahman’s Baseball Database&lt;/a>. We say a player should be in the Hall of Fame is at least 3 of the 5 most similar players are in the Hall of Fame. This is also using similarity as the distance function with the kNN problem.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this project as an assignment for Cloud Computing course while studying at Baylor University. I enjoyed solving these problems with new technologies.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>While I was in my first semester (Spring 2021) at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>I used pySpark (RDD, Python), Dask (Python, Dask Bag), MongoDB (file system, MongoDB Query Language (MQL)) separately to solve the problem using the public Lahman&amp;rsquo;s Baseball dataset.&lt;/li>
+&lt;/ul></description></item></channel></rss>

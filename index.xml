@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tonni Das Jui</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Tonni Das Jui</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>/media/icon_hueab7d6d199de416be2b9f9dfddb82a1a_48284_512x512_fill_lanczos_center_3.png</url><title>Tonni Das Jui</title><link>/</link></image><item><title>Python basics</title><link>/courses/example/python/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/courses/example/python/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/rfscVS0vtbw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="quiz">Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What is the difference between lists and tuples?&lt;/summary>
+&lt;p>&lt;p>Lists&lt;/p>
+&lt;ul>
+&lt;li>Lists are mutable - they can be changed&lt;/li>
+&lt;li>Slower than tuples&lt;/li>
+&lt;li>Syntax: &lt;code>a_list = [1, 2.0, 'Hello world']&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>Tuples&lt;/p>
+&lt;ul>
+&lt;li>Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li>
+&lt;li>Tuples are faster than lists&lt;/li>
+&lt;li>Syntax: &lt;code>a_tuple = (1, 2.0, 'Hello world')&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details>
+&lt;details class="spoiler " id="spoiler-3">
+&lt;summary>Is Python case-sensitive?&lt;/summary>
+&lt;p>Yes&lt;/p>
+&lt;/details></description></item><item><title>Visualization</title><link>/courses/example/visualization/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/courses/example/visualization/</guid><description>&lt;p>Learn how to visualize data with Plotly.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/hSPmj7mK6ng" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="quiz">Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>When is a heatmap useful?&lt;/summary>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p>
+&lt;/details>
+&lt;details class="spoiler " id="spoiler-3">
+&lt;summary>Write Plotly code to render a bar chart&lt;/summary>
+&lt;p>&lt;pre>&lt;code class="language-python">import plotly.express as px
+data_canada = px.data.gapminder().query(&amp;quot;country == 'Canada'&amp;quot;)
+fig = px.bar(data_canada, x='year', y='pop')
+fig.show()
+&lt;/code>&lt;/pre>
+&lt;/p>
+&lt;/details></description></item><item><title>Statistics</title><link>/courses/example/stats/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/courses/example/stats/</guid><description>&lt;p>Introduction to statistics for data science.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>The general form of the &lt;strong>normal&lt;/strong> probability density function is:&lt;/p>
+&lt;p>$$
+f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
+$$&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+&lt;/div>
+&lt;/div>
+&lt;h2 id="quiz">Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What is the parameter $\mu$?&lt;/summary>
+&lt;p>The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p>
+&lt;/details></description></item><item><title>Example Talk</title><link>/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Fairness issues, current approaches, and challenges in machine learning models</title><link>/publication/fairness_ijmlc/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>/publication/fairness_ijmlc/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>k-Hopped Link Prediction With Graph Embedding</title><link>/publication/conference-paper_k_hop/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>/publication/conference-paper_k_hop/</guid><description>&lt;!-- # &lt;div class="alert alert-note">
+&lt;div>
+&lt;h1 id="click-the-cite-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software">Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1>
+&lt;h1 id="heading">&lt;/h1>
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>A machine learning-based segmentation approach for measuring similarity between sign languages</title><link>/publication/conference-paper_slsimilarity/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>/publication/conference-paper_slsimilarity/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Performance Analysis of Quantum Machine Learning Classifiers</title><link>/publication/conference-paper_qclassifier/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>/publication/conference-paper_qclassifier/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Health Insurance prediction</title><link>/project/insurance-prediction/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>/project/insurance-prediction/</guid><description>&lt;p>Since its emergence, health insurance has increased in popularity in both developed and developing countries. Underdeveloped countries are now working toward developing a healthcare system to assist people in avoiding bankruptcy due to medical expenses. Individuals who have health insurance have the advantage of paying a lower amount for medical care than the bill, which helps them deal with unexpectedly high medical bills. Government or private entities offer health care packages. For several organizations, such as hospitals, an accurate estimation of health costs is important. It necessitates the prediction of insurance costs based on an analytical dataset of important individual variables such as age, average monthly medical costs, and so on. In this paper, we investigate the dataset from Brett Lantz&amp;rsquo;s book Machine Learning with R which was simulated using demographic statistics in the United States, and we compare the efficiency of various models in predicting insurance costs on this dataset. To predict the cost, we employed Linear Regression, Ridge Regression, Support Vector Regression, Regression with Neural Network, and Random Forest Regression, and we faced overfitting issues by running several experiments with tuning the hyper-parameters of the best performing model.&lt;/p></description></item><item><title>Machine Learning en Sistemas Embebidos</title><link>/project/ml-in-embedded-system/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>/project/ml-in-embedded-system/</guid><description>&lt;p>Machine Learning en Sistemas Embebidos is a spanish course for Machine Learning in Embedded Systems. this course was initiated by Dr. Pablo Rivas, who is working for Baylor University. He is the main instructor in this course. Along with Dr. Rivas, Dr. Javier Orduz, Dr. Graciela Ramirez Alonso and Ernesto Quevedo Caballero also were involved in preparing course materials. I was responsible for backend maintenance.&lt;/p>
+&lt;p>I was involved in this project as a Research Assistant for Dr. Rivas in his Artificial Intelligence lab at Baylor University. This was one of the many projects that was involved in.&lt;/p></description></item><item><title>Quantum Classifiers</title><link>/project/quantum-classifier/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>/project/quantum-classifier/</guid><description>&lt;p>In recent years, researchers are looking into data transformations in the quantum information space to see whether they may improve robustness and performance. The evolution of quantum mechanics occurred because it could explain specific scenarios in which conventional formulas failed. As a result, it began to expand in analytical research domains such as machine learning, and it is now capable of functioning correctly, and in some circumstances better than classical machine learning. Classification is one of the crucial areas in Machine Learning (ML), and quantum classification analysis has started to gain prominence. In this paper, we focus on implementing four classification algorithms such as Support Vector Classification with Quantum Kernel (SVCQK), Quantum Support Vector Classifier (QSVC), Variational Quantum Classifier (VQC), and Circuit Quantum Neural Network Classifier (CQNNC). We also provide analytical results of case studies with various generated classifiable and semi-classifiable datasets. This study is to determine whether quantum information theory may shorten learning time or improve convergence when compared to traditional approaches.&lt;/p></description></item><item><title>Bear Go</title><link>/project/bear-go/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/bear-go/</guid><description/></item><item><title>Car Tuning</title><link>/project/car-tuning/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/car-tuning/</guid><description/></item><item><title>Contest Registering</title><link>/project/team-registration/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/team-registration/</guid><description>&lt;p>Due to the lack of more variate, native and continuous datasets, sign languages are low-resources languages that can benefit from multilingualism in machine translation. In order to analyze the benefits of approaches like multilingualism, finding the similarity between sign languages can guide better matches and contributions between languages. However, calculating the similarity between sign languages again implies a laborious work to measure how close or distant signs are and their respective contexts. For that reason, we propose to support the similarity measurement between sign languages through a video-segmentation-based machine learning model that will quantify this match among signs of different countries&amp;rsquo; sign languages. Using a machine learning approach the similarity measurement process can run more smoothly, compared to a more manual approach. We use a pre-trained temporal segmentation model for British Sign Language (BSL). We test it on three datasets, an American Sign Language (ASL) dataset, an Indian Sign Language (ISL), and an Australian Sign Language (AUSLAN) dataset. We hypothesize that the percentage of segmented and recognized signs by this machine learning model can represent the percentage of overlap or similarity between British and the other three sign languages. In our ongoing work, we evaluate three metrics considering Swadesh&amp;rsquo;s and Woodward&amp;rsquo;s list and their synonyms. We found that our intermediate-strict metric coincides with a more classical analysis of the similarity between British and American Sign Language, as well as with the classical low measurement between Indian and British sign languages. On the other hand, our similarity measurement between British and Australian Sign language just holds for part of the Australian Sign Language and not the whole data sample.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I developed this project as a research work for Baylor AI lab while working as a research assistant at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>While I was in my second semester (Fall 2021) at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>I used Python, tensorflow for this project.&lt;/li>
+&lt;/ul></description></item><item><title>Hall of Fame</title><link>/project/similarity/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/similarity/</guid><description>&lt;p>A common activity for big data is determining similarity between two objects of the same type. Baseball reference has a formula for computing the similarity of players, found &lt;a href="https://www.baseball-reference.com/about/similarity.shtml" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>The aim of this project was to look for players that should be in the Hall of Fame, but they are not using &lt;a href="http://www.seanlahman.com/baseball-archive/statistics/" target="_blank" rel="noopener">Lahman’s Baseball Database&lt;/a>. We say a player should be in the Hall of Fame is at least 3 of the 5 most similar players are in the Hall of Fame. This is also using similarity as the distance function with the kNN problem.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this project as an assignment for Cloud Computing course while studying at Baylor University. I enjoyed solving these problems with new technologies.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>While I was in my first semester (Spring 2021) at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>I used pySpark (RDD, Python), Dask (Python, Dask Bag), MongoDB (file system, MongoDB Query Language (MQL)) separately to solve the problem using the public Lahman&amp;rsquo;s Baseball dataset.&lt;/li>
+&lt;/ul></description></item><item><title>Quantum Computing</title><link>/project/quantum-computing/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/quantum-computing/</guid><description>&lt;p>This is a static website with hugo.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this one to store important notes and course materials.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>In summer 2021.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>A website with github public repository and hugo.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>Anyone with this link &lt;code>https://tonnidas.github.io/quantum-exercises/&lt;/code> should be able to see my website for this course work.&lt;/li>
+&lt;/ul></description></item><item><title>SL similarity</title><link>/project/sign-language/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/project/sign-language/</guid><description>&lt;p>Due to the lack of more variate, native and continuous datasets, sign languages are low-resources languages that can benefit from multilingualism in machine translation. In order to analyze the benefits of approaches like multilingualism, finding the similarity between sign languages can guide better matches and contributions between languages. However, calculating the similarity between sign languages again implies a laborious work to measure how close or distant signs are and their respective contexts. For that reason, we propose to support the similarity measurement between sign languages through a video-segmentation-based machine learning model that will quantify this match among signs of different countries&amp;rsquo; sign languages. Using a machine learning approach the similarity measurement process can run more smoothly, compared to a more manual approach. We use a pre-trained temporal segmentation model for British Sign Language (BSL). We test it on three datasets, an American Sign Language (ASL) dataset, an Indian Sign Language (ISL), and an Australian Sign Language (AUSLAN) dataset. We hypothesize that the percentage of segmented and recognized signs by this machine learning model can represent the percentage of overlap or similarity between British and the other three sign languages. In our ongoing work, we evaluate three metrics considering Swadesh&amp;rsquo;s and Woodward&amp;rsquo;s list and their synonyms. We found that our intermediate-strict metric coincides with a more classical analysis of the similarity between British and American Sign Language, as well as with the classical low measurement between Indian and British sign languages. On the other hand, our similarity measurement between British and Australian Sign language just holds for part of the Australian Sign Language and not the whole data sample.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I developed this project as a research work for Baylor AI lab while working as a research assistant at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>While I was in my second semester (Fall 2021) at Baylor University.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>I used Python, tensorflow for this project.&lt;/li>
+&lt;/ul></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;figure id="figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/guide/update/" target="_blank" rel="noopener">Update Guide&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Design and Implementation of Digital Attendance System using OTP Encryption</title><link>/publication/journal-article_design/</link><pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate><guid>/publication/journal-article_design/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>3D Model Generation of Real-Objects Using 2D Information</title><link>/publication/journal-article_3d/</link><pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate><guid>/publication/journal-article_3d/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Writing technical content in Academic</title><link>/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>/post/writing-technical-content/</guid><description>&lt;p>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p>
+&lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
+&lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p>
+&lt;h2 id="examples">Examples&lt;/h2>
+&lt;h3 id="code">Code&lt;/h3>
+&lt;p>Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code>highlight&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file.&lt;/p>
+&lt;pre>&lt;code>```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-python">import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code>&lt;/pre>
+&lt;h3 id="charts">Charts&lt;/h3>
+&lt;p>Academic supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> chart format.&lt;/p>
+&lt;p>Save your Plotly JSON in your page folder, for example &lt;code>chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
+&lt;p>Demo:&lt;/p>
+&lt;div id="chart-178359624" class="chart">&lt;/div>
+&lt;script>
+(function() {
+let a = setInterval( function() {
+if ( typeof window.Plotly === 'undefined' ) {
+return;
+}
+clearInterval( a );
+Plotly.d3.json("./line-chart.json", function(chart) {
+Plotly.plot('chart-178359624', chart.data, chart.layout, {responsive: true});
+});
+}, 500 );
+})();
+&lt;/script>
+&lt;p>You might also find the &lt;a href="http://plotly-json-editor.getforge.io/" target="_blank" rel="noopener">Plotly JSON Editor&lt;/a> useful.&lt;/p>
+&lt;h3 id="math">Math&lt;/h3>
+&lt;p>Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code>math&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file.&lt;/p>
+&lt;p>To render &lt;em>inline&lt;/em> or &lt;em>block&lt;/em> math, wrap your LaTeX math with &lt;code>$...$&lt;/code> or &lt;code>$$...$$&lt;/code>, respectively.&lt;/p>
+&lt;p>Example &lt;strong>math block&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code class="language-latex">$$\gamma_{n} = \frac{
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;p>$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}&lt;em>{n}) - \nabla F(\mathbf{x}&lt;/em>{n-1}) \right |^2}$$&lt;/p>
+&lt;p>Example &lt;strong>inline math&lt;/strong> &lt;code>$\nabla F(\mathbf{x}_{n})$&lt;/code> renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p>
+&lt;p>Example &lt;strong>multi-line math&lt;/strong> using the &lt;code>\\\\&lt;/code> math linebreak:&lt;/p>
+&lt;pre>&lt;code class="language-latex">$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp;amp; \text{if }k=1, \\\\
+1-p_{0}^{*} &amp;amp; \text{if }k=0.\end{cases}$$
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;p>$$f(k;p_{0}^{&lt;em>}) = \begin{cases}p_{0}^{&lt;/em>} &amp;amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp;amp; \text{if }k=0.\end{cases}$$&lt;/p>
+&lt;h3 id="diagrams">Diagrams&lt;/h3>
+&lt;p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>
+&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>sequence diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>Gantt diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+gantt
+section Section
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">gantt
+section Section
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
+&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>class diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+&amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+int id
+size()
+}
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+&amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+int id
+size()
+}
+&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>state diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/code>&lt;/pre>
+&lt;h3 id="todo-lists">Todo lists&lt;/h3>
+&lt;p>You can even write your todo lists in Academic too:&lt;/p>
+&lt;pre>&lt;code class="language-markdown">- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write math example&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write diagram example&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Do something else&lt;/li>
+&lt;/ul>
+&lt;h3 id="tables">Tables&lt;/h3>
+&lt;p>Represent your data in tables:&lt;/p>
+&lt;pre>&lt;code class="language-markdown">| First Header | Second Header |
+| ------------- | ------------- |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>First Header&lt;/th>
+&lt;th>Second Header&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Content Cell&lt;/td>
+&lt;td>Content Cell&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Content Cell&lt;/td>
+&lt;td>Content Cell&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="callouts">Callouts&lt;/h3>
+&lt;p>Academic supports a &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/#callouts" target="_blank" rel="noopener">shortcode for callouts&lt;/a>, also referred to as &lt;em>asides&lt;/em>, &lt;em>hints&lt;/em>, or &lt;em>alerts&lt;/em>. By wrapping a paragraph in &lt;code>{{% callout note %}} ... {{% /callout %}}&lt;/code>, it will render as an aside.&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{% callout note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /callout %}}
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/div>
+&lt;/div>
+&lt;h3 id="spoilers">Spoilers&lt;/h3>
+&lt;p>Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
+You found me!
+{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>Click to view the spoiler&lt;/summary>
+&lt;p>You found me!&lt;/p>
+&lt;/details>
+&lt;h3 id="icons">Icons&lt;/h3>
+&lt;p>Academic enables you to use a wide range of &lt;a href="https://sourcethemes.com/academic/docs/page-builder/#icons" target="_blank" rel="noopener">icons from &lt;em>Font Awesome&lt;/em> and &lt;em>Academicons&lt;/em>&lt;/a> in addition to &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis" target="_blank" rel="noopener">emojis&lt;/a>.&lt;/p>
+&lt;p>Here are some examples using the &lt;code>icon&lt;/code> shortcode to render icons:&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal
+{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python
+{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;p>
+&lt;i class="fas fa-terminal pr-1 fa-fw">&lt;/i> Terminal&lt;br>
+&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Python&lt;br>
+&lt;i class="fab fa-r-project pr-1 fa-fw">&lt;/i> R&lt;/p>
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/post/jupyter/</guid><description>&lt;pre>&lt;code class="language-python">from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+&lt;/code>&lt;/pre>
+&lt;p>&lt;img src="./index_1_0.png" alt="png">&lt;/p>
+&lt;pre>&lt;code class="language-python">print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;pre>&lt;code>Welcome to Academic!
+&lt;/code>&lt;/pre>
+&lt;h2 id="install-python-and-jupyterlab">Install Python and JupyterLab&lt;/h2>
+&lt;p>&lt;a href="https://www.anaconda.com/distribution/#download-section" target="_blank" rel="noopener">Install Anaconda&lt;/a> which includes Python 3 and JupyterLab.&lt;/p>
+&lt;p>Alternatively, install JupyterLab with &lt;code>pip3 install jupyterlab&lt;/code>.&lt;/p>
+&lt;h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook&lt;/h2>
+&lt;p>Run the following commands in your Terminal, substituting &lt;code>&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code> and &lt;code>&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code> with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p>
+&lt;pre>&lt;code class="language-bash">mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code>&lt;/pre>
+&lt;p>The &lt;code>jupyter&lt;/code> command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p>
+&lt;h2 id="edit-your-post-metadata">Edit your post metadata&lt;/h2>
+&lt;p>The first cell of your Jupter notebook will contain your post metadata (&lt;a href="https://sourcethemes.com/academic/docs/front-matter/" target="_blank" rel="noopener">front matter&lt;/a>).&lt;/p>
+&lt;p>In Jupter, choose &lt;em>Markdown&lt;/em> as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p>
+&lt;pre>&lt;code>---
+title: My post's title
+date: 2019-09-01
+# Put any other Academic metadata here...
+---
+&lt;/code>&lt;/pre>
+&lt;p>Edit the metadata of your post, using the &lt;a href="https://sourcethemes.com/academic/docs/managing-content" target="_blank" rel="noopener">documentation&lt;/a> as a guide to the available options.&lt;/p>
+&lt;p>To set a &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image" target="_blank" rel="noopener">featured image&lt;/a>, place an image named &lt;code>featured&lt;/code> into your post&amp;rsquo;s folder.&lt;/p>
+&lt;p>For other tips, such as using math, see the guide on &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">writing content with Academic&lt;/a>.&lt;/p>
+&lt;h2 id="convert-notebook-to-markdown">Convert notebook to Markdown&lt;/h2>
+&lt;pre>&lt;code class="language-bash">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code>&lt;/pre>
+&lt;h2 id="example">Example&lt;/h2>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+print(&amp;quot;Eating...&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+**Two**
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;pre>&lt;code class="language-css">.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+color: navy;
+}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Personal Website</title><link>/project/personal-website/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>/project/personal-website/</guid><description>&lt;p>This is a static website with hugo.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this one to represent my professional and personal development.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>After I came to USA for my higher study.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>An website with github public repository and hugo.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>Anyone with this link &lt;code>https://tonnidas.github.io/&lt;/code> will be able to see my experience, skills, research, projects, publications, timeline, activities, academic awards &amp;amp; scholarships and contact.&lt;/li>
+&lt;/ul></description></item><item><title>Wireless Notice Board</title><link>/project/wireless-notice-board/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>/project/wireless-notice-board/</guid><description>&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>For my Digital System Design course in my undergraduate program at BRAC University, I came up with the idea of this project.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I have done it while I was in my 4rt year of undergraduate program at BRAC University, Bangladesh.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>GSM module, Arduino mega, LED display, C language etc.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>It Can show msg that is sent from a mobile number which is coded in the machine and can receive msg while anyone presses the button.&lt;/li>
+&lt;li>It is a wireless device that allows sending and receiving massages from/to a phone and display received massages on the display of the device.&lt;/li>
+&lt;li>It is used for updating students about information’s by faculty if the faculty is not at the office when the students come to visit him.&lt;/li>
+&lt;li>The student can press the button to send a notification to the faculty and when the faculty sees it in his phone he can reply the msg and the msg should be shown on the led screen.&lt;/li>
+&lt;/ul></description></item><item><title>Box Run</title><link>/project/box-run/</link><pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate><guid>/project/box-run/</guid><description>&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I was interested in games and staff and so, I though lets try to build one myself.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I have done it while I was in my 3rd year of undergraduate program at BRAC University, Bangladesh.&lt;/li>
+&lt;/ul>
+&lt;h4 id="with-whom-i-have-done-it">With whom I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I had another group mate to help me with it namely Md. Alium Basir. He was as passionate as me to play a game that we have created ourselves.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>We used Unity and C# programming language.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>It was a beginner level desktop based 3D Game with 3 levels along with a start and end page. A person can run this game directly using the &lt;code>BOXRUN&lt;/code> file in windows based pc. Click that button on the website and download the file and run it.&lt;/li>
+&lt;li>Its player is a movable cube that the user/player could move only right or left.&lt;/li>
+&lt;li>The cube always moves forward with a constant speed in each level. As the level goes up, the speed of the cube goes up too. It means that in level one the speed is moderate without any acceleration. after passing the level one, player moves to level two and here, the speed is more than the level one. the speed is default.&lt;/li>
+&lt;li>The cube runs through a road full of objects. Main goal of the player is to successfully reach the end of the path in each level by passing all the obstacles to go to next level. Once the player has completed all the three levels, he has finished this game. (However, the third levels speed was insanely high which made it hard to pass).&lt;/li>
+&lt;li>The cube maintains the physics of law (while colliding and moving).&lt;/li>
+&lt;li>User will play on the player cubes perspective.&lt;/li>
+&lt;/ul>
+&lt;h4 id="how-to-run-the-game-directly">How to run the game directly:&lt;/h4>
+&lt;ul>
+&lt;li>You can run the game directly by clicking the &lt;code>BOXRUN&lt;/code> button. It will download a folder which you will need to extract and than inside the folder you will find BOXRUN.exe file. Clicking this file will take you to the game. Remember you need this whole folder to make it work without any other software support. And you can run this game only in windows version.&lt;/li>
+&lt;/ul></description></item><item><title>Payroll Management</title><link>/project/payroll_with-external-link/</link><pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate><guid>/project/payroll_with-external-link/</guid><description>&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this out of self interest. This was my first website building project.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>After I completed graduating from BRAC University, Bangladesh.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>Visual studio, C#, CSS, HTML5 etc.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>There is a drop down bar, in which the names of all the employees should be in alphabetic order.&lt;/li>
+&lt;li>By clicking any of the names from the drop down bar, all the details of that employee should be displayed.&lt;/li>
+&lt;li>In click with the generate button there should be a printable page with all the facilities of the employees calculated.&lt;/li>
+&lt;/ul></description></item><item><title>Color Sorter</title><link>/project/color-sorter/</link><pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate><guid>/project/color-sorter/</guid><description>&lt;p>Color sorting machine can sort out different objects and place it in it&amp;rsquo;s bucket according to different colors.&lt;/p>
+&lt;h4 id="why-i-have-done-it">Why I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>I built this out of self interest. This was my first website building project.&lt;/li>
+&lt;/ul>
+&lt;h4 id="when-i-have-done-it">When I have done it:&lt;/h4>
+&lt;ul>
+&lt;li>After I completed graduating from BRAC University, Bangladesh.&lt;/li>
+&lt;/ul>
+&lt;h4 id="technical-details">Technical details:&lt;/h4>
+&lt;ul>
+&lt;li>I used C programming language, Energia IDE, MSP430, motor sensor, color sensor.&lt;/li>
+&lt;/ul>
+&lt;h4 id="description">Description:&lt;/h4>
+&lt;ul>
+&lt;li>It is a device capable of sorting out items of different color in different places.&lt;/li>
+&lt;li>It can be used for sorting different colored fruits in the industries.&lt;/li>
+&lt;li>It has 3 ways for 3 different colors.&lt;/li>
+&lt;li>Each colored object will fall in that colored way.&lt;/li>
+&lt;li>Color sensor detects the color of the object.&lt;/li>
+&lt;li>The motor moves the object according to the ordered angle from &lt;code>MSP430&lt;/code>.&lt;/li>
+&lt;/ul></description></item><item><title>An example preprint / working paper</title><link>/publication/preprint/</link><pubDate>Wed, 07 Apr 2010 00:00:00 +0000</pubDate><guid>/publication/preprint/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title/><link>/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/admin/config.yml</guid><description/></item></channel></rss>
