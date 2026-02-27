@@ -22,23 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor
+    company: Saint Leo University
+    company_url: 'https://www.saintleo.edu/'
+    company_logo: 
+    location: FL, USA
+    date_start: '2026-01-01'
+    date_end: ''
+    description: |2-
+        * Independently taught undergraduate courses in Android Studio, Database Systems, and C++, designing rigorous theoretical and hands-on curricula that emphasized mobile app development, database design, and efficient problem-solving aligned with industry standards.
+
+        * Mentored students through project-based learning, code reviews, and structured assessments, integrating interactive coding, real-world assignments, and technical skill development to strengthen practical implementation and critical thinking.
+
   - title: Graduate Research Assistant
     company: Bioinformatics Lab
     company_url: 'https://www.notion.so/Benton-Lab-1503c1f6fde342ecbda5da25f1d48353'
     company_logo: 
     location: TX, USA
     date_start: '2023-01-01'
-    date_end: ''
+    date_end: '2025-12-31'
     description: |2-
-        * Utilized parameterizable topology in attention and aggregation functions for classification in graph.
+        * Led research in graph machine learning and representation learning within a bioinformatics lab, developing novel attention-based models and structural integration methods for node and graph classification on complex, real-world datasets.
 
-        * Implemented topological information targeting dynamic attention generation. 
-         
-        * Information augmentation for contrastive learning in graph embedding techniques. 
+        * Designed, implemented, and evaluated scalable machine learning pipelines (data preprocessing, model development, experimentation, and analysis), producing reproducible research outcomes and advancing methodological contributions at the intersection of AI and biomedical applications.
 
         * Projects: [Topological graph embedding](https://github.com/tonnidas/AttributePrediction_FeatureVsTopology), [Graph information influence](https://github.com/tonnidas/AttributePredictionGraphTopology), [k-hop](https://github.com/tonnidas/LinkPrediction_Comparison_Hop), [k-hop_ARGA](https://github.com/tonnidas/LinkPrediction_ARGA_Hop), [P-value](https://github.com/tonnidas/Pvalue_Prediction)
 
-  - title: Graduate Research Assistant
+  - title: Graduate Research & Teaching Assistant
     company: Baylor AI Lab
     company_url: 'https://baylor.ai/'
     company_logo: 
@@ -46,9 +56,10 @@ experience:
     date_start: '2021-05-01'
     date_end: '2022-12-30'
     description: |2-
-        * Developed method for sign language similarity analysis with multistage temporal CNN over Lexicostatistics.
-        * Analyzed fairness and feasibility of ML models through a mapping approach. 
-        * Analyzed quantum and classical classifiers on real-world seperable and nonseperable datasets.
+        * Conducted interdisciplinary AI research, developing temporal CNN-based methods for sign language similarity analysis and evaluating fairness and performance of classical and quantum classifiers on real-world datasets.
+
+        * Supported undergraduate instruction as a Teaching Assistant, facilitating labs, guiding student projects, and assisting with grading and conceptual reinforcement in core AI and machine learning topics.
+        
         * Projects: [SLSimilarity](https://github.com/tonnidas/sign_similarity), [QClassifiers](https://github.com/tonnidas/Quantum-Classifiers), [FairAI](https://link.springer.com/article/10.1007/s13042-023-02083-2)
         
   - title: Lecturer

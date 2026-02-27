@@ -48,7 +48,7 @@ subtitle = ""
 +++
 
 
-## Graph machine learning
+## **Graph Representation Learning**
   - Actively working on graph information influence analysis under supervision of [Dr. Erich Baker](https://www.linkedin.com/in/erich-baker-34bb544/) and [Dr. Mary Lauren Benton](https://onlinecs.baylor.edu/faculty/dr-mary-lauren-benton) in [Bioinformatics lab](https://www.notion.so/Benton-Lab-1503c1f6fde342ecbda5da25f1d48353).
   - Developing methodology for generating graph's topological embedding disregarding node feature information.
   - Predicting p-values in Alzheimer's disease gene graphs employing topological embedding.
@@ -56,20 +56,20 @@ subtitle = ""
   - Anlyzing edge feature and k-hopped topological and feature information for node attribute prediction with graph embedding.
   - Published an articles and submitted two more (pending decision). 
 
-## Sign language similarity analysis
+## **Sign Language Analysis**
   - Supervised by [Dr. Pablo Rivas](https://onlinecs.baylor.edu/faculty/dr-pablo-rivas) and collaborated with [Dr. Gissella Bejarano](https://www.marist.edu/computer-science-math/faculty/gissella-bejarano) in [Baylor AI lab](https://baylor.ai/).
   - Automated Sign Language (SL) similarity analysis with a 3D multi-stage convolutional neural network method. 
   - Verified method's credibility comparing with SL similarity scores from Lexicostatistics (considering four features: Handshape, Orientation, Movement, Location) method. 
   - Employed annotations analysis with segmentation approach for automation. 
   - Published an article. 
 
-## Quantum Machine Learning
+## **Quantum Classifiers Analysis**
   - Supervised by [Dr. Pablo Rivas](https://onlinecs.baylor.edu/faculty/dr-pablo-rivas) and [Dr. Javier Orduz](https://earlham.edu/faculty-staff/javier-orduz/).
   - Employed quantum classifiers with quantum kernals for analyzing classification performance compared to traditional classifiers. 
   - Employed quantum adversarial autoencoder for identigying DDoS attacks.
   - Published an article and submitted another article (pending decision). 
 
-## AI Ethics 
+## **Fairness Evaluation in Models** 
   - Supervised by [Dr. Pablo Rivas](https://onlinecs.baylor.edu/faculty/dr-pablo-rivas) in [Baylor AI lab](https://baylor.ai/).
   - Proposed classification of fairness issues and generalized the methods to solve them and their challanges according to the issue classes.
   - Implemented systematic mapping study approach to analyze biases and the fairness of AI, ML methods
