@@ -47,22 +47,29 @@ subtitle = ""
  css_class = ""
 +++
 #### {{< icon name="laptop-code" pack="fas" >}} Programming 
-- Solved 150+ problems on [Leetcode](https://leetcode.com/tonnijuicse/) and similar on [HackerRank](https://www.hackerrank.com/tonnidas). 
+- Solved 500+ problems on [Leetcode](https://leetcode.com/tonnijuicse/) and similar on [HackerRank](https://www.hackerrank.com/tonnidas). 
+
+- Developed and contributed to Spring Boot–based backend applications, designing RESTful APIs and managing version-controlled collaboration via GitHub.
 
 
-<!-- 
-{{< icon name="camera" pack="fas" >}}  Photography
-- While site-seeing and travelling, I like to capture a few shots of nature with mobile camera. -->
 
-#### {{< icon name="tasks" pack="fas" >}}  Task Management and Leadership
-- Acted as Secretary (3rd in ranking: President, Vice president, Sacretary) of Art and Photography society, BRAC University (2016 - 2018).
-- Under my leadership, we earned [Championship of BERGER Robialac Alpona competition](http://www.somoyerkonthosor.com/2016/12/18/77013.htm?fbclid=IwAR3oOUImr3Bm3X9EN5pYfdrR9kmZWLU-Ukvi6xyeNZ5INTYpPaFLn7yOU_0), 2016 organized by BERGER PAINT.
-- I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society.
+#### {{< icon name="tasks" pack="fas" >}}  Leadership
+- Organized inter-university programming competitions and mentored student teams as a Computer Science Club advisor at Leading University.
 
-#### {{< icon name="palette" pack="fas" >}} Extra Curricular   
-- Love to [draw](https://drive.google.com/drive/folders/1oRSnVtxl9Qh-6PAs7MLWWH3jfp9FuLdq?usp=sharing) and play computer games such as COD, sims, card games etc.
+- Led teams as mentor of PENNTESTING CLUB at Saint Leo University.
+
+- Served as vice president of BRACU COMPUTER CLUB.
+
+<!-- - Under my leadership, we earned [Championship of BERGER Robialac Alpona competition](http://www.somoyerkonthosor.com/2016/12/18/77013.htm?fbclid=IwAR3oOUImr3Bm3X9EN5pYfdrR9kmZWLU-Ukvi6xyeNZ5INTYpPaFLn7yOU_0), 2016 organized by BERGER PAINT.
+
+- I hosted Bijoyer rong Alpona competition, 2018 held by BRACU Art and Photography society. -->
+
+<!-- #### {{< icon name="palette" pack="fas" >}} Extra Curricular    -->
+<!-- - Love to [draw](https://drive.google.com/drive/folders/1oRSnVtxl9Qh-6PAs7MLWWH3jfp9FuLdq?usp=sharing) and play computer games such as COD, sims, card games etc.
+
 - Enjoy reviewing places for directing fellow visitors about the place in [Google Local Guide](https://www.google.com/maps/contrib/105336852847465554694/reviews/@33.6032539,-112.2374802,10z?entry=ttu).
-- Like to read (mostly detective stories) and collect books in [Online Book collection](https://drive.google.com/drive/folders/1EEb7q1ipjJYnNEare7lgS4gbn9Rg_C7i?usp=sharing).
+
+- Like to read (mostly detective stories) and collect books in [Online Book collection](https://drive.google.com/drive/folders/1EEb7q1ipjJYnNEare7lgS4gbn9Rg_C7i?usp=sharing). -->
 
 
 

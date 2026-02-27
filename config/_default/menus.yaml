@@ -37,7 +37,7 @@ main:
   # - name: Courses
   #   url: courses/
   #   weight: 70
-  - name: Awards & Scholarships
+  - name: Achievements
     url: '#award'
     weight: 80
   - name: Contact

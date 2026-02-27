@@ -23,15 +23,15 @@ twitter: ''
 email: tonnijuicse@gmail.com
 # phone: 888 888 88 88
 address:
-  street: 1825 S 3rd St
-  city: Waco
-  region: TX
-  postcode: '76706'
+  street: 882 N John Way
+  city: Chandler
+  region: AZ
+  postcode: '85225'
   country: United States
   country_code: US
-coordinates:
-  latitude: '31.533786' #'37.4275' #31.5489° N, 97.1131° W
-  longitude: '-97.103650' # '-122.1697'
+# coordinates:
+#   latitude: '31.533786' #'37.4275' #31.5489° N, 97.1131° W
+#   longitude: '-97.103650' # '-122.1697'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'

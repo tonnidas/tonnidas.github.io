@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Achievements, Awards and Scholarships"
+title = "Achievements"
 subtitle = ""
 
 [design]
@@ -47,13 +47,10 @@ subtitle = ""
  css_class = ""
 +++
 
-- Received Graduate Travel Award (fund of $400) from [Baylor University Graduate SSchool](https://www.baylor.edu/graduate/index.php?id=988192) for presenting at CSCI'23 conference.
+- Published 20+ peer-reviewed publications and a book chapter, accumulating 150+ citations within five years.
 
-- Maintained Merit Scholarship (funding equaling 75\% of semester credit fees) from [BRAC University](https://www.bracu.ac.bd/) throughout four years (2014 - 2018) by maintaining a CGPA above 3.70 in all semesters. 
+- First authored a high-impact IJMLC publication with 50+ citations in its first year, placing it among top-cited works in the machine learning fairness domain.
 
-- Received Education Board Scholarship twice, for excellence in Higher Secondary School Certificate Examination (H.S.C) and in Secondary School Certificate (S.S.C), from the Ministry of Education, Sylhet, Bangladesh.
+- Awarded merit scholarship (top academic performance, CGPA >3.70) from [BRAC University](https://www.bracu.ac.bd/) throughout undergraduate studies.
 
-<!-- - Higher Distinction, BRAC University, Bangladesh
-  - For completing Undergraduate degree with a CGPA above 3.75
-- Merit Based Scholarship, BRAC University, Bangladesh
-  - For Top results in HSC and SSC and excellence in performance while studying in BRAC University. -->
+<!-- - Maintained Merit Scholarship (funding equaling 75\% of semester credit fees) from [BRAC University](https://www.bracu.ac.bd/) throughout four years (2014 - 2018) by maintaining a CGPA above 3.70 in all semesters.  -->
